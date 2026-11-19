@@ -1,0 +1,6830 @@
+[
+  {
+    "id": "AU13",
+    "universitet": "Université Jean Moulin Lyon 3",
+    "kategori": "Campus",
+    "motiv": "Palais de l’Université ved quai Claude Bernard",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://facdeshumanites.univ-lyon3.fr/campus-des-quais",
+      "https://commons.wikimedia.org/wiki/File:Lyon_7e_-_Fa%C3%A7ade_Universit%C3%A9_Lyon_III,_quai_Claude_Bernard_%28f%C3%A9v_2025%29.jpg"
+    ],
+    "original_fil": "AU13_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "4336a471cb4de15552ad99cce6efa5ace30a18fecd59554b03d9ea385f64a30d",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU13_campus.webp",
+    "sha256": "ff38c58efbd457419d0e6bcff64aabd8a7ae8def0861ffd2af5cb530f71d9f25",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU13",
+    "universitet": "Université Jean Moulin Lyon 3",
+    "kategori": "Studiemiljø",
+    "motiv": "Ph.d.-forsvar i Salle Caillemer",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.univ-lyon3.fr/peau-neuve-pour-la-salle-caillemer",
+      "https://www.univ-lyon3.fr/medias/photo/montage-4photos-caillemer_1429174747140-jpg?ID_FICHE=124313"
+    ],
+    "original_fil": "AU13_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "682a856c511ae25db6036eff4e5534885165e3ef430dc651dd31ca0c2c9b6199",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU13_studiemiljo.webp",
+    "sha256": "27afd3557ab02169e84de537be65442b70aa75df96f63fd8e1eeedff3f525d96",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU13",
+    "universitet": "Université Jean Moulin Lyon 3",
+    "kategori": "Byliv",
+    "motiv": "Place du Change og Temple du Change i Vieux Lyon",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.visiterlyon.com/decouvrir/sites-et-monuments/sites-et-monuments-remarquables/temple-du-change",
+      "https://media.lyon-france.com/1280x853/131740/40255326.jpg"
+    ],
+    "original_fil": "AU13_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "317b21856f754fcb833499fc0b1185b5af43cf4af0cc1d8af83ebf7256fb3b19",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU13_byliv.webp",
+    "sha256": "3308ffc5bb92d33af226ae8487f06cd9ab26121584a112f542fcf772600471ae",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU14",
+    "universitet": "Université Paris Cité",
+    "kategori": "Campus",
+    "motiv": "det juridiske fakultet på avenue Pierre Larousse i Malakoff",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://droit.u-paris.fr/acces-a-la-faculte/",
+      "https://droit.u-paris.fr/wp-content/uploads/sites/53/2021/11/droit_Universite_paris.jpg"
+    ],
+    "original_fil": "AU14_campus.png",
+    "original_oploesning": [
+      1672,
+      940
+    ],
+    "original_sha256": "c891d7e22e0f3854237f2559b279407582eefd5db4e20671e5d968842cdf3cf9",
+    "slutoploesning": [
+      1672,
+      940
+    ],
+    "lokal_sti": "gallery_local/AU14_campus.webp",
+    "sha256": "776aceaa39af9df34359c3c40e61ca30b334ac1d06ecf6535b489f5c38a576e2",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU14",
+    "universitet": "Université Paris Cité",
+    "kategori": "Studiemiljø",
+    "motiv": "studiepladser ved ovenlyset i BU Jeanne-Chauvin",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://u-paris.fr/bibliotheques/bu-jeanne-chauvin/",
+      "https://canal-architecture.com/wp-content/uploads/2021/05/c-philippe-ruault-6-768x512.jpg"
+    ],
+    "original_fil": "AU14_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "9074d05e681360f8e72554af3dd50d2ff26a56d6b09eff099cdea742eab8754b",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU14_studiemiljo.webp",
+    "sha256": "0e4c0bb0bda21e3d96d7c6685148896af282f1d5e4152261dd27266f397548c5",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU14",
+    "universitet": "Université Paris Cité",
+    "kategori": "Byliv",
+    "motiv": "bouquinisterne langs quai de la Tournelle i Paris",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.paris.fr/pages/les-bouquinistes-et-paris-histoire-d-amour-en-majuscules-7886",
+      "https://www.paris.fr/pages/les-nouveaux-bouquinistes-des-quais-sont-sur-le-pont-21231"
+    ],
+    "original_fil": "AU14_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "b74748e5a3a1e53c8675494b9c094e3387827b9c96b61cdc641f9f771c0095d3",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU14_byliv.webp",
+    "sha256": "6577cafd54011888177ad87f54266c574ec0c06f038b82727b1e1a74e9a6f9a5",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU15",
+    "universitet": "Humboldt-Universität zu Berlin",
+    "kategori": "Campus",
+    "motiv": "Alte Bibliothek på Bebelplatz",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://commons.wikimedia.org/wiki/File:Berlin_HU_Juristische_Fakult%C3%A4t.jpg"
+    ],
+    "original_fil": "AU15_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "0cd24d2ea8e5ac8903304d784f9f54b3da3e0fab11380767096b1f46d8d6ff1c",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU15_campus.webp",
+    "sha256": "a6737c5d764f5ca8bb03b9fd1baa369dc354d4def949c5cc375f0ec9a75f8b8f",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU15",
+    "universitet": "Humboldt-Universität zu Berlin",
+    "kategori": "Studiemiljø",
+    "motiv": "læseterrasserne i Jacob-und-Wilhelm-Grimm-Zentrum",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://commons.wikimedia.org/wiki/File:Jacob-und-Wilhelm-Grimm-Zentrum-005.JPG",
+      "https://www.ub.hu-berlin.de/de/assets/dokumente/standorte/jacob-und-wilhelm-grimm-zentrum/architektur_grimm-zentrum.pdf/%40%40download/file/Flyer_GZ_Architektur-Web.pdf"
+    ],
+    "original_fil": "AU15_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "1df0dcbe0dc0f3a28a0c669dd866b8db46c4dca6365a9278673f57af2ed561fe",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU15_studiemiljo.webp",
+    "sha256": "ec2c5690ea73a760e82d23bc26b9a92e11c43c5647e6efe7658418cca35fae9d",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU15",
+    "universitet": "Humboldt-Universität zu Berlin",
+    "kategori": "Byliv",
+    "motiv": "caféliv ved S-Bahn-stationens teglbuer på Hackescher Markt",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.berlin.de/sehenswuerdigkeiten/3560417-3558930-s-bahnhof-hackescher-markt.html",
+      "https://www.berlin.de/binaries/asset/image_assets/3771449/source/1737452204/1000x500/"
+    ],
+    "original_fil": "AU15_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "eddde3f70076e5eaf819c31ad39c0d8dd2875ef288c9d9fadffa2ce223b1c0cf",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU15_byliv.webp",
+    "sha256": "166042ab251ab63e4081e3523a0275b8e8988feb6b281ba477535fd112844eba",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU16",
+    "universitet": "Universität Hamburg",
+    "kategori": "Campus",
+    "motiv": "hovedbygningen ved Edmund-Siemers-Allee",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.uni-hamburg.de/en/uhh/profil/bilder.html",
+      "https://www.uni-hamburg.de/studium/campus-leben/campus.html"
+    ],
+    "original_fil": "AU16_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "0a939803f3a525891c4f5b607a95d8061621f47d4a1da2bc4665a2b4d96abbac",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU16_campus.webp",
+    "sha256": "0a3964e0ffe853eb1b0706c50ef64c6e22b662115c82afd26aca82f05ff0c536",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU16",
+    "universitet": "Universität Hamburg",
+    "kategori": "Studiemiljø",
+    "motiv": "undervisning i Agathe-Lasch-Hörsaal",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.uni-hamburg.de/en/uhh/profil/bilder.html",
+      "https://www.uni-hamburg.de/onTEAM/newsletter/pdf/21460543342.pdf"
+    ],
+    "original_fil": "AU16_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "9659de5900b6a1a809dba483f833baa73537890edba2f979bb6fe3fcddfe6eee",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU16_studiemiljo.webp",
+    "sha256": "44fc4b1d442b55aa8ad3c9e84dfea8454cf89a7b30e2ab6ed132ccc2dfad55b1",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU16",
+    "universitet": "Universität Hamburg",
+    "kategori": "Byliv",
+    "motiv": "Wasserschloss i Speicherstadt set fra Poggenmühlenbrücke",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.hamburg-travel.com/blog/photo-spots-in-the-unesco-world-heritage-site-speicherstadt-kontorhaus-district/"
+    ],
+    "original_fil": "AU16_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "f0e06b5d3f4dcdaf274a96c289e113ec4ec803caab8a0344fe1fef46378743b6",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU16_byliv.webp",
+    "sha256": "671528997432e38c9b7096253503cb79d7e5fd734b8407d4cd616e0a78520ee1",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU17",
+    "universitet": "Universität Mannheim",
+    "kategori": "Campus",
+    "motiv": "Schloss Mannheim og Ehrenhof",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.uni-mannheim.de/newsroom/presse/pressefotos/"
+    ],
+    "original_fil": "AU17_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "8e7eb90c5f63c7a5038e93216cd97c0735ae5232fbfa3659441b7e3c0e744824",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU17_campus.webp",
+    "sha256": "8f6a0e009a211315b4cdae60e112d78a3d16a8b772ee82ef1f966ada143f1b6b",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU17",
+    "universitet": "Universität Mannheim",
+    "kategori": "Studiemiljø",
+    "motiv": "undervisning i høre­sal SO 108",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.uni-mannheim.de/newsroom/presse/pressefotos/"
+    ],
+    "original_fil": "AU17_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "e1de0154f40d5ef660324d4eef9847a38a3d86facba9327ad15ba3750482484c",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU17_studiemiljo.webp",
+    "sha256": "cff36eb97544fb8e10868fead9376926605f5d909bad2bc54e1e14ab67f8451d",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU17",
+    "universitet": "Universität Mannheim",
+    "kategori": "Byliv",
+    "motiv": "Wasserturm og springvandet på Friedrichsplatz",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.visit-mannheim.de/erleben-entdecken/10-besondere-orte"
+    ],
+    "original_fil": "AU17_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "49ec9a0ac2576ebeda4d2b23623f945672724538c07d40e32a4703b900431e91",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU17_byliv.webp",
+    "sha256": "a250fd4cf167614d8f41c679a8c0dff4b8fa0d9f90b668d07b66f8a7db9d87d0",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU18",
+    "universitet": "Pázmány Péter Catholic University",
+    "kategori": "Campus",
+    "motiv": "det juridiske fakultet på Szentkirályi utca 28",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://jak.ppke.hu/virtualis-seta",
+      "https://commons.wikimedia.org/wiki/Category:Szentkir%C3%A1lyi_utca_28-30,_Budapest"
+    ],
+    "original_fil": "AU18_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "f9d1887a4b841afc23ad851b213832809900975911bd42b9da7af2257cf3db98",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU18_campus.webp",
+    "sha256": "defa6e30c4ffdb8e4d0bb9be81a4873de45084365856c7caf32eaf16d104a361",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU18",
+    "universitet": "Pázmány Péter Catholic University",
+    "kategori": "Studiemiljø",
+    "motiv": "et fagligt oplæg i János Pál pápa terem",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://jak.ppke.hu/old-2/hirek/kari-fotok-2",
+      "https://jak.ppke.hu/virtualis-seta"
+    ],
+    "original_fil": "AU18_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "44a51102132a5e5d2d4bd1177d034cc93db8eb91916ccbaf90cb0f9e7e2d77c8",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU18_studiemiljo.webp",
+    "sha256": "0b9d7265dc1c4a20013df97fd75c6e53341da87ab11cf9541647ed92cf68127d",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU18",
+    "universitet": "Pázmány Péter Catholic University",
+    "kategori": "Byliv",
+    "motiv": "gadelivet ved markedshallen på Fővám tér",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://budapestimages.com/collections/fovam-ter",
+      "https://commons.wikimedia.org/wiki/Category:F%C5%91v%C3%A1m_t%C3%A9r"
+    ],
+    "original_fil": "AU18_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "0879a4237659be43c29ac1e1536ac943cec7ca22d934a613d3503d535fff826f",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU18_byliv.webp",
+    "sha256": "6dad2634d6e2228628db696e0adcd93e18cdd43c80ceccdd7a5aaba48724e47c",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU19",
+    "universitet": "University of Iceland",
+    "kategori": "Campus",
+    "motiv": "Aðalbygging på Háskóli Íslands’ campus",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://english.hi.is/about-ui/buildings-and-facilities/university-buildings/main-building"
+    ],
+    "original_fil": "AU19_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "b4950581ec9d860fa12406303b88fddbd8e29da4210a28f37b0be065b9cbad85",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU19_campus.webp",
+    "sha256": "545d08dc038b464574f21a1541cbd5f5ba636a1082354c2ef03d2addb5cca931",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU19",
+    "universitet": "University of Iceland",
+    "kategori": "Studiemiljø",
+    "motiv": "studiemiljøet i Veröld, House of Vigdís",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://english.hi.is/about-ui/buildings-and-facilities/university-buildings/verold",
+      "https://www.graennibyggd.is/_files/ugd/54e708_a0a6989a463e410a98c8494ee1f37e8c.pdf"
+    ],
+    "original_fil": "AU19_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "d4c98c089fc466941d1cfb6b45723bbce8d5241924d1e3b959960b4ea6b03e4b",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU19_studiemiljo.webp",
+    "sha256": "76a0955ac3c9eee8133b14fe5633ee9f86ff7356193998e3bd6d278c7fb72c01",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU19",
+    "universitet": "University of Iceland",
+    "kategori": "Byliv",
+    "motiv": "regnbuegaden Skólavörðustígur med udsigt til Hallgrímskirkja",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://visitreykjavik.is/reykjavik-city-center-guide"
+    ],
+    "original_fil": "AU19_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "f49909b35ddf7fd8825f6b9208228a2eba23491f7e0551aa27f8adf8dd9a0b96",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU19_byliv.webp",
+    "sha256": "fe085e1aaf707e6ad912f97abedefd9561f97e5fc803f4942cd0ee196973e7a4",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU20",
+    "universitet": "Reykjavik University",
+    "kategori": "Campus",
+    "motiv": "Reykjavik University ved Nauthólsvík",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.ru.is/en/about-ru/media-and-press/information-for-media"
+    ],
+    "original_fil": "AU20_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "fb5f2a5ef79ab0079510bee2ec7bd0a723a3c42bac6ce1eb9654e18f48c281a0",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU20_campus.webp",
+    "sha256": "685eaadbee20cadcb8cea64a4e74e6336deb8cafc17462a16e66af33a92bddc1",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU20",
+    "universitet": "Reykjavik University",
+    "kategori": "Studiemiljø",
+    "motiv": "studerende i Reykjavik Universitys fællesrum Sólin",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.ru.is/en/about-ru/media-and-press/information-for-media",
+      "https://www.ru.is/hr/husnaedi/haskolabyggingin"
+    ],
+    "original_fil": "AU20_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "5c4d77258917faef5e8762b208d6066ef33419c2d47ebcac4dcc1911ae29219f",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU20_studiemiljo.webp",
+    "sha256": "95a7c28ad12a6b251464264a476e19cd17ff9fa80ea4402c6b3306b4fa348579",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU20",
+    "universitet": "Reykjavik University",
+    "kategori": "Byliv",
+    "motiv": "bylivet på Austurvöllur i Reykjavík",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://visitreykjavik.is/service/austurvollur-square-and-public-park"
+    ],
+    "original_fil": "AU20_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "c57ae32c90db39660705f5f8f2a201c6d4311a63288f14d373786ad682ee125a",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU20_byliv.webp",
+    "sha256": "e4ef8e01b9ab6946e6375317079409a9f0ad827c83a87875a20fff843f161d77",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU21",
+    "universitet": "Hebrew University of Jerusalem",
+    "kategori": "Campus",
+    "motiv": "Rothberg Amphitheatre på Mount Scopus",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://commons.wikimedia.org/wiki/Category:Mount_Scopus_Theatre",
+      "https://openscholar.huji.ac.il/sites/default/files/campaign/files/campustourmtscopus.pdf"
+    ],
+    "original_fil": "AU21_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "3a48a6a69373a46a01a3ed785191da14a6e32b83968b0ed0628a7e9a387b4382",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU21_campus.webp",
+    "sha256": "bab696dcbd637b2b290c9cdfe7a57890f0288f0534081f7394ad815f6b517337",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU21",
+    "universitet": "Hebrew University of Jerusalem",
+    "kategori": "Studiemiljø",
+    "motiv": "Bernard G. Segal Law Library i David Wolffsohn-bygningen",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://libraries.huji.ac.il/sites/default/files/library/files/mtsgt_ltr_hspryyh.pdf",
+      "https://libraries.huji.ac.il/sites/default/files/library/files/new_books_august_2021.pdf",
+      "https://en.libraries.huji.ac.il/law-library-3"
+    ],
+    "original_fil": "AU21_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "e5d328854d30c05ead4d67c4e8068ad9b789d8c9abdf46345104742626f3a3a6",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU21_studiemiljo.webp",
+    "sha256": "8bb90a9de9158ae9221251754a3859f16effffe79c2564e61a496144ae44a64c",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU21",
+    "universitet": "Hebrew University of Jerusalem",
+    "kategori": "Byliv",
+    "motiv": "Mahane Yehuda-markedet i Jerusalem",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.itraveljerusalem.com/he/article/best-boutique-shops-in-mahane-yehuda-market"
+    ],
+    "original_fil": "AU21_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "e978cc107c841850051aaf41882b1c4ec465ee4c8baaf93c94b0c4f982030b17",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU21_byliv.webp",
+    "sha256": "9cab464dc437c1d6f8cf17a6a1720d371b807fce9465e05befa1794cecd3fb25",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU22",
+    "universitet": "University Luiss Guido Carli",
+    "kategori": "Campus",
+    "motiv": "Villa Alberoni på Viale Pola i Rom",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.luiss.it/it/ateneo/luiss-life/hub-e-sedi/villa-alberoni",
+      "https://www.luiss.it/it/ateneo/luiss-life/hub-e-sedi"
+    ],
+    "original_fil": "AU22_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "baa7c7ee765e633b3d896636dba522145183a7cd6151e03e21774be8a170a780",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU22_campus.webp",
+    "sha256": "e070a5def6e7809743d8dee5860c9f242a6de6d771140cd2e930bf180eff9007",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU22",
+    "universitet": "University Luiss Guido Carli",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende i den glaserede loggia på Luiss Business Schools Villa Blanc",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://learn.luiss.it/pluginfile.php/1654850/coursecat/description/Infopack%20for%20International%20Students%202024-2025.pdf",
+      "https://www.luiss.it/it/ateneo/luiss-life/hub-e-sedi/villa-blanc"
+    ],
+    "original_fil": "AU22_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "12a7f7bcb0fb7a50c3f21ad674ca23ca527733e73b677e00c3100bca6cfb736d",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU22_studiemiljo.webp",
+    "sha256": "f05156378740e53f29a87fc8e2a20701b88c76918e746cb23a9b2214f9cb5a3f",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU22",
+    "universitet": "University Luiss Guido Carli",
+    "kategori": "Byliv",
+    "motiv": "Piazza Navona med Fontana dei Quattro Fiumi",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://turismoroma.it/en/places/navona-square",
+      "https://www.turismoroma.it/en/places/fountain-four-rivers"
+    ],
+    "original_fil": "AU22_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "fe9ccb7c74d7e58d120f5996a42027540907b3d3acbbe1c21b1b6ef36500ab65",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU22_byliv.webp",
+    "sha256": "57c1765e5cf2a8d3ce523edcbe872f544a414ef909503f5d495c925380bdc2a2",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU23",
+    "universitet": "University of Bologna",
+    "kategori": "Campus",
+    "motiv": "Palazzo Poggis renæssancearkade på Via Zamboni i Bologna",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://portici.comune.bologna.it/la-serie/universita-e-accademia/palazzo-poggi",
+      "https://portici.comune.bologna.it/sites/default/files/2024-04/ceccarelli-the-bolognese-portico.pdf",
+      "https://disci.unibo.it/it/dipartimento/sedi-e-contatti/via-zamboni-33-bologna"
+    ],
+    "original_fil": "AU23_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "4c2262dff0cd4802406b7941c30e29938d216f758593281cd1efc43b10438dc7",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU23_campus.webp",
+    "sha256": "56ab55c8da7de92b0c0c1f6f6f477d14fd7d698330bbc0704bbaea7738f961a6",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU23",
+    "universitet": "University of Bologna",
+    "kategori": "Studiemiljø",
+    "motiv": "Studiebesøg i Aula Magna på Biblioteca Universitaria di Bologna",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://bub.unibo.it/it/visita-il-palazzo/aula-magna",
+      "https://bub.unibo.it/it/immagini/foto-zannoni/aula-magna-frontale-globi/@@images/b880388f-940c-4c55-a799-88a56bc3cbaa.jpeg"
+    ],
+    "original_fil": "AU23_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "4cc37564282e5df2dedefed5b678d81985e244b9e837f41717fdb1d53d2bd17e",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU23_studiemiljo.webp",
+    "sha256": "cf7ba2fee46ebc070597858f7f8c71ee9fa4e95cfe186c03f2c6d1c68dbc4608",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU23",
+    "universitet": "University of Bologna",
+    "kategori": "Byliv",
+    "motiv": "Via Pescherie Vecchie i Bolognas Quadrilatero",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.bolognawelcome.com/it/luoghi/luoghi-di-shopping/lantico-mercato-nel-quadrilatero"
+    ],
+    "original_fil": "AU23_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "6f8a6bd1ca71b505e6619540dd4f22d3be13a6fb0f6859dc8f95996be1e60d9b",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU23_byliv.webp",
+    "sha256": "451b23aa22df01eb473a196c3a8c0cb30619a9343d3f3d9c253b3d97aead3b37",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU24",
+    "universitet": "Università degli Studi di Firenze",
+    "kategori": "Campus",
+    "motiv": "Juracampus i Novoli i Firenze",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.unifi.it/it/studia-con-noi/vivi-luniversita/campus-e-servizi/campus-e-sedi",
+      "https://www.giurisprudenza.unifi.it/vp-134-mappa-degli-edifici.html"
+    ],
+    "original_fil": "AU24_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "ee24f4a844648eb15094693fa7c7a8e13dd48aac00d4483dd71abadcb1d26ad4",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU24_campus.webp",
+    "sha256": "99db40747aff4414261149810ed73e3eb5ffd0d6e0dacf682ce9e167ff2224be",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU24",
+    "universitet": "Università degli Studi di Firenze",
+    "kategori": "Studiemiljø",
+    "motiv": "Studiegruppe på Biblioteca di Scienze Sociali i Novoli",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.economia.unifi.it/upload/sub/Presentazione%20Scuola%202021%20%283%29%20%281%29.pdf",
+      "https://www.sba.unifi.it/upload/scienzesociali/eventi/convegno_architettura_biblioteca/contributi/natalini.pdf"
+    ],
+    "original_fil": "AU24_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "7d1d02c66140ea416a688402a1c6a24f25c4b2c4ed807a0c7eb8feeed5ca4e4d",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU24_studiemiljo.webp",
+    "sha256": "4bbe1d28d4d122195e63c3a68dec824550d7d8e74137bad82145e3e94ac2afb8",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU24",
+    "universitet": "Università degli Studi di Firenze",
+    "kategori": "Byliv",
+    "motiv": "Piazza Santo Spirito i Firenzes Oltrarno",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.feelflorence.it/en/points-interest/piazza-santo-spirito"
+    ],
+    "original_fil": "AU24_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "05a6552245ab9dbe2ba5be87a76845fcff5555a0f49e7c468153cb1f713b9415",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU24_byliv.webp",
+    "sha256": "47564568f7ecc32fcf34afef8df7626cc444569d1807400622416101bb5587ea",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU25",
+    "universitet": "Rijksuniversiteit Groningen",
+    "kategori": "Campus",
+    "motiv": "Academiegebouw på Broerstraat i Groningen",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.rug.nl/news/2024/10/het-academiegebouw?lang=en",
+      "https://www.rug.nl/about-ug/policy-and-strategy/diversity-and-inclusion/accessibility/accessibility-of-the-university-buildings/images/academiegebouw-1111-1112?lang=en"
+    ],
+    "original_fil": "AU25_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "d638bb603d5080b10e289b675327e416ca4b66dc79614ce896f87299fb4a58cf",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU25_campus.webp",
+    "sha256": "92c9e3f489207293ece3ace25464110d08913f1aff183bbc67c433e95e516b40",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU25",
+    "universitet": "Rijksuniversiteit Groningen",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende på trappen ved jurafakultetets Rölinggebouw",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.rug.nl/rechten/organisatie/rolinggebouw/kunst/kunst-rosa-everts?lang=en",
+      "https://www.rug.nl/groundbreakingwork/projects/law/design?lang=en"
+    ],
+    "original_fil": "AU25_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "e430d78ca7588a0613704003442af6d5b8d7cd157730baa3a7d83f3a1c4cec25",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU25_studiemiljo.webp",
+    "sha256": "e6b1a60d2d3949a3634f1f01af8a45d2cc3baeb9e78cf2f745d6e40011bd79e3",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU25",
+    "universitet": "Rijksuniversiteit Groningen",
+    "kategori": "Byliv",
+    "motiv": "Vismarkt foran Korenbeurs og Akerk",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.visitgroningen.nl/en/locations/city/vismarkt",
+      "https://gemeente.groningen.nl/file/locatieprofiel-vismarkt"
+    ],
+    "original_fil": "AU25_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "fceba2ef67a30f0d093f04d0de0e0fe6aeffc60c4ade94d9339cacbf5982b2e0",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU25_byliv.webp",
+    "sha256": "fe180e0acabe60b582d782c74f76854638be3267bcd30bb230f0eace3dc62068",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU26",
+    "universitet": "Universiteit Leiden",
+    "kategori": "Campus",
+    "motiv": "Academiegebouw ved Rapenburg i Leiden",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.universiteitleiden.nl/en/locations/academy-building",
+      "https://www.visitleiden.nl/en/locations/4116710871/academy-building",
+      "https://www.staff.universiteitleiden.nl/binaries/content/assets/ul2staff/gebouwen-en-faciliteiten/faculty-club/het-academiegebouw-en-de-faculty-club-eng.pdf"
+    ],
+    "original_fil": "AU26_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "749c9ecff0553d2a6bf148ada009fc5c2b60261ddd71c41c27d84cb69fd47576",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU26_campus.webp",
+    "sha256": "a3fe7b7206c91e152d08e4689a70bcba05df29e2383dce5477a966d1d42bd7a5",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU26",
+    "universitet": "Universiteit Leiden",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende i jurabiblioteket i Kamerlingh Onnes Gebouw",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.ruijssenaars.nl/portfolio-items/9830/",
+      "https://www.ruijssenaars.nl/hra-wp/wp-content/uploads/2019/05/9830-005.jpg",
+      "https://studyspots.universiteitleiden.nl/KOG",
+      "https://commons.wikimedia.org/wiki/File:Leiden383.JPG"
+    ],
+    "original_fil": "AU26_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "41cecc283afb804688d6aa279b7edc89ca0505a77ce6c0be03a7c36c12839775",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU26_studiemiljo.webp",
+    "sha256": "558b6bc8b46a1f4e14e40966b4dad5253764646032e39a2d308d1802074c725e",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU26",
+    "universitet": "Universiteit Leiden",
+    "kategori": "Byliv",
+    "motiv": "Kloksteeg med Café Pieter og Pieterskerk",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.visitleiden.nl/nl/locaties/1721386070/pieterskerkcafe",
+      "https://www.visitleiden.nl/en/what-to-do/virtual-visit-to-leiden"
+    ],
+    "original_fil": "AU26_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "1464f971633c2a727312d8ad4525931600378faeb20dfbcc82b93828a114fad0",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU26_byliv.webp",
+    "sha256": "623b1898ed4aa5972e5cb606df71e0cd18b0bb48120265e6f1f1de3f66fdc2c7",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU27",
+    "universitet": "Vrije Universiteit Amsterdam",
+    "kategori": "Campus",
+    "motiv": "New University Building på De Boelelaan på Vrije Universiteit Amsterdam",
+    "kilde": "Fotografi",
+    "referencer": [
+      "https://teamv.nl/project/new-university-building/",
+      "https://vu.nl/en/about-vu/more-about/new-university-building",
+      "https://commons.wikimedia.org/wiki/File:New_University_Building_(3).jpg"
+    ],
+    "original_fil": "AU27_campus.jpg",
+    "original_oploesning": [
+      3778,
+      2473
+    ],
+    "original_sha256": "20da4253e280520c1861b2ff832cfb57a112939a56f972ed0051fe23a3808d33",
+    "slutoploesning": [
+      3778,
+      2473
+    ],
+    "lokal_sti": "gallery_local/AU27_campus.webp",
+    "sha256": "32d66efd855641569d2b653e593c869fc58bbca329d621282f386b415992d73d",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    },
+    "author": "Filipjack",
+    "license": "CC0 1.0",
+    "licens_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "aendring": "Konverteret til WebP ved original opløsning"
+  },
+  {
+    "id": "AU27",
+    "universitet": "Vrije Universiteit Amsterdam",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende i atriet på Vrije Universiteit Amsterdam",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://teamv.nl/project/new-university-building/",
+      "https://www.ahrend.com/nl/cases/onderwijs/nieuwe-universiteitsgebouw-vrije-universiteit/"
+    ],
+    "original_fil": "AU27_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "24636686fff8e5e11e9b84d75bd7c5897fe6e25979512dd071bd86eb739bd762",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU27_studiemiljo.webp",
+    "sha256": "815e3cd23c3646e432042c21440d00090162407a618493248070aa21cd447f9a",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU27",
+    "universitet": "Vrije Universiteit Amsterdam",
+    "kategori": "Byliv",
+    "motiv": "Reguliersgracht og de oplyste broer i Amsterdam",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.iamsterdam.com/en/see-and-do/attractions-and-sights/prettiest-streets-in-amsterdam",
+      "https://www.iamsterdam.com/en/see-and-do/attractions-and-sights/bridges-of-amsterdam",
+      "https://www.flickr.com/photos/8348059%40N02/20836167961"
+    ],
+    "original_fil": "AU27_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "30703795126d852804770f163f55c3d8e331e542020cf65669d05b14d0b9ae94",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU27_byliv.webp",
+    "sha256": "c1f5148a1672a4fb485a255e561fec6401778fd311c23876b5032a95ca8e2bb2",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU28",
+    "universitet": "Universitetet i Bergen",
+    "kategori": "Campus",
+    "motiv": "Det moderne Jusbygget og den historiske Dragefjellet skole i Bergen",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://marcus.uib.no/instance/photograph/ubb-eia-063",
+      "https://data.ub.uib.no/files/bs/ubb/ubb-eia/ubb-eia-063/jpg/ubb-eia-063_th.jpg",
+      "https://ekstern.filer.uib.no/eiendomsavdelingen/Forvaltningsplaner/Dragefjellet%20skole.pdf"
+    ],
+    "original_fil": "AU28_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "85bd5a548c7b77804111e90474f1fb76d3ce6f987d8dac344b800709853fdad8",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU28_campus.webp",
+    "sha256": "0aee1cdb100db3d1097f61b12f0d6079e93f0294611aeed7884f4ffcd98b0104",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU28",
+    "universitet": "Universitetet i Bergen",
+    "kategori": "Studiemiljø",
+    "motiv": "Juraøvelsestime i Dragefjellets ombyggede historiske gymnastiksal",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://ekstern.filer.uib.no/eiendomsavdelingen/Forvaltningsplaner/Dragefjellet%20skole.pdf",
+      "https://marcus.uib.no/instance/photograph/ubb-eia-079",
+      "https://www4.uib.no/det-juridiske-fakultet/for-studenter-ved-det-juridiske-fakultet/retningslinjer-for-studentorganisasjoners-bruk-av-lokaler-ved-det-juridiske-fakultet"
+    ],
+    "original_fil": "AU28_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "fbe5d5e63e84022fb0d219f427009135559235bec5d2c36d5cd1d40ba8b7a266",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU28_studiemiljo.webp",
+    "sha256": "efe23489fbf181091ce6ba4191d2d561edafa9f3e758ee8aa620c353e0b56707",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU28",
+    "universitet": "Universitetet i Bergen",
+    "kategori": "Byliv",
+    "motiv": "Hverdagsliv ved Bryggen og Vågen i Bergen",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://en.visitbergen.com/ideas-and-inspiration/films-and-pictures/pictures-from-bergen/bryggen-a-world-heritage-site"
+    ],
+    "original_fil": "AU28_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "cb5d7ab8b125b3663be9f8555edfc354a9c4e451bad00d7e98881582787f393d",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU28_byliv.webp",
+    "sha256": "5d03706a92eae2e07964127c46c09aaa06114ff6a9ffcc173dbf8a782ccfb89a",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU29",
+    "universitet": "University of Oslo",
+    "kategori": "Campus",
+    "motiv": "Domus Media og Universitetsplassen i Oslo",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.uio.no/english/about/getting-around/areas/city-centre/se01/",
+      "https://www.uio.no/om/organisasjon/styret/moter/2022/12-06/i-sak-20-22-uio-i-sentrum-karl-johans-gate.pdf",
+      "https://commons.wikimedia.org/wiki/File:Domus_media_-_Universitetet_i_Oslo_(University_of_Oslo)_-_Oslo,_Norway_2021-03-25.jpg"
+    ],
+    "original_fil": "AU29_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "9b0721b4a7bc7b42fd4e16853b055d1611b57e0eff7251f7b04154d2e6108daa",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU29_campus.webp",
+    "sha256": "270aa86b29a63e5efc921195799d6f0a6fd2863ac0532ca9237b9832e48acb27",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU29",
+    "universitet": "University of Oslo",
+    "kategori": "Studiemiljø",
+    "motiv": "Faglig forelæsning i Universitetets Aula i Domus Media",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.uio.no/om/regelverk/eiendom/leie-lokaler/universitetets-aula.html",
+      "https://www.uio.no/om/finn-fram/omrader/sentrum/se01/"
+    ],
+    "original_fil": "AU29_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "2f63c49c3bfb77f38ca3ff43c2b1a6ee05dd92d30cf4703a52a8c9775e4b8e70",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU29_studiemiljo.webp",
+    "sha256": "57936ac1510112624dd2ae378478a5770414d2ff9519fb2e958acb50ef649bf0",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU29",
+    "universitet": "University of Oslo",
+    "kategori": "Byliv",
+    "motiv": "Byliv ved havnepromenaden i Bjørvika med Operahuset",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.visitoslo.com/articles/the-harbour-promenade"
+    ],
+    "original_fil": "AU29_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "bb13de6d2147cbf433bfc0ce0fa1d13f8dba3e0adc1d07acb80696a06b3eec9a",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU29_byliv.webp",
+    "sha256": "479645f0dbbd9cca3b0929dd0c4960041f004a9011bb8ed1270fb3ad066ef050",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU30",
+    "universitet": "UiT The Arctic University of Norway",
+    "kategori": "Campus",
+    "motiv": "Breivika campus og Teorifagbyggene ved UiT i Tromsø",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://arkitekturguide.uit.no/items/show/833",
+      "https://uit.no/nyheter/artikkel/kortnytt?p_document_id=924693",
+      "https://arkitekturguide.uit.no/files/show/3748"
+    ],
+    "original_fil": "AU30_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "46ff968049ef2f73db3fa240eb3ce85b881b162e8b1e9ebc1a1e64e39caaf4ff",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU30_campus.webp",
+    "sha256": "e434c0a60bfec4ebf7e62929b8bebb4f00db19bcde8105f07242cfd9ae116573",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU30",
+    "universitet": "UiT The Arctic University of Norway",
+    "kategori": "Studiemiljø",
+    "motiv": "Studenter i kulturhuset Driv i Tromsø",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://uit.no/nyheter/artikkel?p_document_id=819431",
+      "https://site.uit.no/wp-content/uploads/sites/484/2021/11/TODOS_PhD-guide-digital_2.pdf",
+      "https://ubdigital.uit.no/bitstream/handle/10037.2/552/Utropia_40aar_2015_nr05.pdf?isAllowed=y&sequence=1"
+    ],
+    "original_fil": "AU30_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "1bd887cc7e99a39c5829722cae91300170378650492a91be1ad8dfa6046b272d",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU30_studiemiljo.webp",
+    "sha256": "60d5e10fdcdceb31d7af3e904949ad93ec4addc38bb575eec8ccfc309254edc5",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU30",
+    "universitet": "UiT The Arctic University of Norway",
+    "kategori": "Byliv",
+    "motiv": "Lokalt byliv på Stortorget i Tromsø",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.visittromso.no/stortorget",
+      "https://www.visittromso.no/historical-walking-tour-tromso",
+      "https://images.citybreak.com/image.aspx?ImageId=7009702&fitaspect=1&height=228&width=342"
+    ],
+    "original_fil": "AU30_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "404374291acc6541b0755ab14f8eae3ac671ffc80ae39ff714270d0b7aded668",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU30_byliv.webp",
+    "sha256": "64f8c35ca8f5b9fd7fb0229dfe49b06c4516fff1b86f65a667a1a58fff92b7bd",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU31",
+    "universitet": "Jagiellonian University",
+    "kategori": "Campus",
+    "motiv": "Collegium Novum på Jagiellonian University i Kraków",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://promocja.uj.edu.pl/filmy-zdjecia-prezentacje/zdjecia",
+      "https://en.uj.edu.pl/en/a-different-view"
+    ],
+    "original_fil": "AU31_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "c34f5bad6f5590f889f984131b2a673dad9a6f0bd28a2600b7c8b526bea606ea",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU31_campus.webp",
+    "sha256": "361547c516a867d7e4c8175cbd46f0e9cfdcc46db10af2799edeb59f17e32b7e",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU31",
+    "universitet": "Jagiellonian University",
+    "kategori": "Studiemiljø",
+    "motiv": "Akademisk arrangement i Aula Collegium Novum",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://promocja.uj.edu.pl/filmy-zdjecia-prezentacje/zdjecia"
+    ],
+    "original_fil": "AU31_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "aae652e685c237808eeefb1ad26013887438d99e40534d32ea1e52897c300c23",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU31_studiemiljo.webp",
+    "sha256": "cb2fb6ddf607afde90b34fe33991d4088e1e8b84cc26589dc09873d67a71aca1",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU31",
+    "universitet": "Jagiellonian University",
+    "kategori": "Byliv",
+    "motiv": "Rynek Główny med Sukiennice og Mariakirken i Kraków",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://turystykakrakow.pl/multimedia/275419%2Cartykul%2Czdjecia.html",
+      "https://visitmalopolska.pl/en_US/obiekt/-/poi/rynek-glowny-krakow"
+    ],
+    "original_fil": "AU31_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "ea682af1eb3513984c61bb4cc1c3407306fd6e4a7273f66e1427e5cb7631f120",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU31_byliv.webp",
+    "sha256": "619006a6b0405612adcf59635ed214d994ca9fb02b2769205193558ba5e011ed",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU32",
+    "universitet": "Comillas Pontifical University",
+    "kategori": "Campus",
+    "motiv": "Comillas ICADE ved Alberto Aguilera 23 i Madrid",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.comillas.edu/campus-y-ubicaciones/"
+    ],
+    "original_fil": "AU32_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "f929df2f8d601ec988bfe0a87a9cc80b7354c6e7f6bfb573912416fdb3eff1ae",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU32_campus.webp",
+    "sha256": "227884a0c933eb469759b34f24a932cb576057eae7c5633af3d09e083ff60a38",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU32",
+    "universitet": "Comillas Pontifical University",
+    "kategori": "Studiemiljø",
+    "motiv": "Velkomst til udvekslingsstuderende i Comillas’ Aula Magna",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.comillas.edu/noticias/comillas-recibe-a-los-nuevos-alumnos-extranjeros/",
+      "https://www.comillas.edu/noticias/el-compromiso-social-y-el-reencuentro-marcan-el-historico-aniversario-de-la-promocion-de-2001-de-comillas-alumni/",
+      "https://www.comillas.edu/noticias/comillas-da-la-bienvenida-a-mas-de-700-alumnos-internacionales/"
+    ],
+    "original_fil": "AU32_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "d58765cb2937ebbf317ff5e9427c89fac1f80ed302dfb1c1cedf7e6a861627e4",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU32_studiemiljo.webp",
+    "sha256": "b5517712e7d80f575d85176087b3a363c14842e27b59ec3f99f9aee77369cd23",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU32",
+    "universitet": "Comillas Pontifical University",
+    "kategori": "Byliv",
+    "motiv": "Byliv ved Mercado de San Miguel i Madrid",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.esmadrid.com/compras/mercado-de-san-miguel",
+      "https://madridfilmoffice.com/en/location/mercado-de-san-miguel/"
+    ],
+    "original_fil": "AU32_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "c63e68a3fdf24a6701d5975d83f47caa5927d6e8e3a7b17c8f7e465a6328300a",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU32_byliv.webp",
+    "sha256": "2325bc01d99b2b6edb848463f67b3890b159c1f4705d7d6c877970e491641175",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU33",
+    "universitet": "Pompeu Fabra University",
+    "kategori": "Campus",
+    "motiv": "Roger de Llúria på Ciutadella-campus i Barcelona",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.upf.edu/web/barcelona-campus-urba/ciutadella",
+      "https://www.upf.edu/en/web/campus/historia-de-l-edifici-roger-de-lluria",
+      "https://wattega.arcbcn.cat/edifici-roger-de-lluria-upf/",
+      "https://www.upf.edu/en/web/dret/noticies/-/asset_publisher/W8R4C1KECQlt/content/presentacio-1r-curs-doctorat-en-dret-2021-2022/maximized"
+    ],
+    "original_fil": "AU33_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "ea87f0e44a9cc2aef198ff201760d5465d9bb937142c83bcb207c8d27b94aa2b",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU33_campus.webp",
+    "sha256": "d2d54a519ad1fea44431e10c29b1fb323cbee824fffe722ae18a58535980034c",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU33",
+    "universitet": "Pompeu Fabra University",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende under murstenshvælvene i Dipòsit de les Aigües",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.upf.edu/inici/-/asset_publisher/Bym0y8DtVfMc/content/el-dip%C3%B2sit-de-les-aig%C3%BCes-declarat-b%C3%A9-cultural-d-inter%C3%A8s-nacional-en-la-categoria-de-monument-hist%C3%B2ric/10193/maximized",
+      "https://www.upf.edu/en/web/360upf/la-upf-i-barcelona-historic"
+    ],
+    "original_fil": "AU33_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "3e495c07b91e9badbdec65ba8fe8c7f00c0d665bab857acffa62bbf65fce91e0",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU33_studiemiljo.webp",
+    "sha256": "3100dfc5b12445d544b21090c067445a03841b677fedfae148c3879ebd996609",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU33",
+    "universitet": "Pompeu Fabra University",
+    "kategori": "Byliv",
+    "motiv": "Markedsliv ved Mercat de Santa Caterina i Barcelona",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://bid.barcelonaturisme.com/wv3/en/page/508/santa-caterina-market.html"
+    ],
+    "original_fil": "AU33_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "99623199ea386d202b2b39e22a1b60ceb4f010382a4d29316ce0b2cf04d3ba12",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU33_byliv.webp",
+    "sha256": "2e781b27f099f5c3ef408bfb21434a6dffeeea463c453369599df16fee21068a",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU34",
+    "universitet": "Lund University",
+    "kategori": "Campus",
+    "motiv": "Lunds universitets hovedbygning ved Universitetsplatsen",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.lunduniversity.lu.se/about-university/visit-lund-university/campus-locations",
+      "https://www.lu.se/studera/om-universitetsstudier/traffa-lunds-universitet/digital-rundtur-i-lund"
+    ],
+    "original_fil": "AU34_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "6d2cf32457c95c0b1f85aa454cb35eba8a2cd93a1da23bcd4a0d8f0851c856be",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU34_campus.webp",
+    "sha256": "3c93d823df6fa8e6ffcba9071e6891f520f60fe9b2fb3de11e8d610e4c0b36a9",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU34",
+    "universitet": "Lund University",
+    "kategori": "Studiemiljø",
+    "motiv": "Faglig forelæsning i Palaestras Hörsal",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.staff.lu.se/support-and-tools/premises-and-parking/booking-premises-and-meeting-rooms/shared-lecture-halls",
+      "https://www.odeum.lu.se/om-odeum/lokaler"
+    ],
+    "original_fil": "AU34_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "f0ae6ef3b27a6680b34d43339b0a492cbffb810b9ef1708fe3c1f82e0e70b8ec",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU34_studiemiljo.webp",
+    "sha256": "5fedffbd56ccd09961415bb19b0c1419bfcda032f16057df89ab960ad6df1626",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU34",
+    "universitet": "Lund University",
+    "kategori": "Byliv",
+    "motiv": "Hverdagsliv i Lunds historiske Adelgatan",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://visitlund.se/uppleva-och-gora/aktiviteter-och-natur/6-instagramplatser-i-lund"
+    ],
+    "original_fil": "AU34_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "cf3c8823580258eb33e8744cdcc18de5e469692fa8fa2ab002b0a90ca26226d2",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU34_byliv.webp",
+    "sha256": "97c857f11751d624d35b9b674396c7b78ac2a0a5c15f7aeaa177ad27a6c066cd",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU35",
+    "universitet": "Stockholm University",
+    "kategori": "Campus",
+    "motiv": "Erskines Aula Magna på Frescati-campus",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.su.se/english/about-the-university/about-our-campus/finding-your-way-on-stockholm-university-campus/digital-walk-at-frescati",
+      "https://www.score.su.se/om-universitetet/kultur-och-historia/konst-vid-stockholms-universitet/visningar"
+    ],
+    "original_fil": "AU35_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "4be85f05bd8d76944cdc8064f764df243efaff96b8de8571fe46efb0047bb1fe",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU35_campus.webp",
+    "sha256": "bfa0e008091393212f3830f6cb546f96299713621d1063dfe55d497c0b7ea44a",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU35",
+    "universitet": "Stockholm University",
+    "kategori": "Studiemiljø",
+    "motiv": "Forelæsning i den store sal i Aula Magna",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.archaeology.su.se/english/about-the-university/about-our-campus/book-conferences-and-meetings",
+      "https://www.su.se/download/18.11777a0b1993704a0586cf3/1758029391797/Annual%2520Report%25202023AR%25202023%2520web.pdf"
+    ],
+    "original_fil": "AU35_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "31616813209ee1ad854533174243cd02f1c54009b1bc9e6f2f753bb2a9a66bad",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU35_studiemiljo.webp",
+    "sha256": "97765ad409affade33c7ccbc23fe3b00cfbd0f27766e2a5fa74aff71d594b027",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU35",
+    "universitet": "Stockholm University",
+    "kategori": "Byliv",
+    "motiv": "Aftentur på Monteliusvägen med udsigt over Riddarfjärden",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.visitstockholm.com/o/monteliusvagen/",
+      "https://www.visitstockholm.com/see-do/attractions/one-day-in-stockholm/"
+    ],
+    "original_fil": "AU35_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "64dbed60132df0bf6ce3488a1e1fe6ed3efac8246f213d7a68d67f71a5c67747",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU35_byliv.webp",
+    "sha256": "039ca2e2a88ac6dec3c426d802c85d51a7f1f288204571d5ea34957657528be8",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU36",
+    "universitet": "University of Gothenburg",
+    "kategori": "Campus",
+    "motiv": "Göteborgs universitets hovedbygning i Vasaparken",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://motesservice.gu.se/en/the-universitys-main-building-vasaparken",
+      "https://www.gu.se/en/study-in-gothenburg/campus-and-student-life/campus-and-facilities"
+    ],
+    "original_fil": "AU36_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "6e6c4fdd2e88521d3a2c2687aac129a7024ff9a472e2e6db4874251c9fbd8338",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU36_campus.webp",
+    "sha256": "0ce78e4bc4578cb15439ce1ec962482de25df36242eb536fc714d7c66313a58f",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU36",
+    "universitet": "University of Gothenburg",
+    "kategori": "Studiemiljø",
+    "motiv": "Juraarrangement i Malmstensalen ved Handelshögskolan",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.gu.se/en/study-gothenburg/school-of-business-economics-and-law-facilities",
+      "https://www.gu.se/studera/hitta-utbildning/handelshogskolans-lokaler"
+    ],
+    "original_fil": "AU36_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "b68f1d29f15c9aa0a252b9dba165e60cfb32a949603daf30211281b2a927dd95",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU36_studiemiljo.webp",
+    "sha256": "0b6495c1d4c68ba18cb471e3468861aa27f56d3be3547097a4b77fd333ff9f6e",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU36",
+    "universitet": "University of Gothenburg",
+    "kategori": "Byliv",
+    "motiv": "Hverdagsliv og fika på Haga Nygata i Göteborg",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.stage2.goteborg.com/en/guides/haga",
+      "https://www.goteborg.com/en/information/gothenburg-guide"
+    ],
+    "original_fil": "AU36_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "411144eddfd6786851b244a80a40632bab79d260603041cbcb7de825cc300ec5",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU36_byliv.webp",
+    "sha256": "16812040809e328b6aa09a0e60bbfc509a6d1988fd8e4d5a9031b83c1f89a2bc",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU37",
+    "universitet": "Uppsala University",
+    "kategori": "Campus",
+    "motiv": "Universitetshuset set fra Universitetsparken",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.uu.se/en/about-uu/the-university-area/the-university-main-building",
+      "https://www.uu.se/om-uu/historia/historiska-kulturmiljoer/universitetshusets-historia",
+      "https://www.mynewsdesk.com/uu/images/the-university-main-building-in-uppsala-3253817"
+    ],
+    "original_fil": "AU37_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "6bf1baa460fa842ba7d56cd7224a2b0639d10cebcd8e4779f400cc37bda4d64e",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU37_campus.webp",
+    "sha256": "61a8f99c5e5b9e1643fc3bb467bd51b1b6fb5131c749bfce61f9325f87e380c0",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU37",
+    "universitet": "Uppsala University",
+    "kategori": "Studiemiljø",
+    "motiv": "Studiestart i Universitetshusets trappehal",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.uu.se/en/about-uu/the-university-area/book-the-university-main-building",
+      "https://www.uu.se/en/news/2025/2025-05-28-new-thesis-on-symbolism-and-architecture-of-university-main-building",
+      "https://www.sfv.se/vara-fastigheter/sverige/uppsala-lan/universitetshuset-uppsala"
+    ],
+    "original_fil": "AU37_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "17d4318eec3badc8b39a3d0fa59a3b69852c15b855fc43143c08fe53ed2cd42d",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU37_studiemiljo.webp",
+    "sha256": "1e2d971b64a69b57f6c7cff5aa459145c40f0bf97376aeee5013b209c6d76c79",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU37",
+    "universitet": "Uppsala University",
+    "kategori": "Byliv",
+    "motiv": "Aftenliv ved Fyrisån omkring Nybron",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://destinationuppsala.se/en/guider-inspiration/running-in-uppsala/",
+      "https://destinationuppsala.se/en/guides-inspiration/free-activities-to-do-in-uppsala/"
+    ],
+    "original_fil": "AU37_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "8593465068ee675ac66e34bf839b374fb0ef0e310d6973352cbfb6c1eddabfdb",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU37_byliv.webp",
+    "sha256": "dc914a072bcc780baf1cdba5e6f4c04c26b74c3fbaec3d5ad953354976bacf09",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU38",
+    "universitet": "Universität Zürich",
+    "kategori": "Campus",
+    "motiv": "Karl Mosers hovedbygning på Rämistrasse",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.news.uzh.ch/en/media/bildergalerie/gebaeude.html",
+      "https://www.news.uzh.ch/de/articles/2014/jubilaeum-eroeffnet.html"
+    ],
+    "original_fil": "AU38_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "2ac2c1719d869a56bf20cec245f0684093b1e9dcd7a875f30506d88233a3afe4",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU38_campus.webp",
+    "sha256": "8aa383ef2c680cb8452175628eb1f090d0f11b693712f4e91da9c5e31e454cc2",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU38",
+    "universitet": "Universität Zürich",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende i Santiago Calatravas juridiske bibliotek",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.zuerich.com/en/visit/attractions/ub-law-university-of-zurich",
+      "https://www.news.uzh.ch/en/media/bildergalerie/gebaeude.html"
+    ],
+    "original_fil": "AU38_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "c11ca6faef28f45ccaf0eedd1b50f76293c54f856046ae679fb79304eb925ef0",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU38_studiemiljo.webp",
+    "sha256": "3603dd72a7f5521b32e9f61a6e28b5dfd14cc7ced4b18ed5792338690783ee10",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU38",
+    "universitet": "Universität Zürich",
+    "kategori": "Byliv",
+    "motiv": "Aftenliv på Lindenhof med udsigt over Limmat",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.zuerich.com/en/visit/nature/lindenhof"
+    ],
+    "original_fil": "AU38_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "17b2dc13c5f43e954b6c47bf713fc9364c639e07a67f828f98272d91de5cc18d",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU38_byliv.webp",
+    "sha256": "16e37c614c088da06e6a4d2148aa032c05d68218894245e8ee182b38f40b0a7f",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU39",
+    "universitet": "Newcastle University",
+    "kategori": "Campus",
+    "motiv": "Armstrong Buildings Jubilee Exhibition Tower set fra Student Forum",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://co-curate.ncl.ac.uk/armstrong-building-newcastle-university/",
+      "https://co-curate.ncl.ac.uk/resources/view/129785/"
+    ],
+    "original_fil": "AU39_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "23d52b859a9c98dd03909561eefbe98a61c1625c6dd933946ad7418371c59815",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU39_campus.webp",
+    "sha256": "f47d9b10fadcc8ab4177d345bd6a30bb5bad7094a24eca5718c2b6c8236c7fc8",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU39",
+    "universitet": "Newcastle University",
+    "kategori": "Studiemiljø",
+    "motiv": "Velkomst for studerende i King’s Hall",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://services.ncl.ac.uk/itservice/teaching-services/teaching-rooms/nuitavsupportedspaces/specialistspaces/kingshallarmstrongbuilding/",
+      "https://speccollstories.ncl.ac.uk/Newcastle-University-at-War/"
+    ],
+    "original_fil": "AU39_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "eae112417a1914083946b1ecb2b5c0c555a53fffc6e6ebd1fe34744dce61aa47",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU39_studiemiljo.webp",
+    "sha256": "f3b13912c943c8c539ca6cb22e5709645316b6fee6f5d7c18608f3b389816157",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU39",
+    "universitet": "Newcastle University",
+    "kategori": "Byliv",
+    "motiv": "Aftenliv langs Quayside ved Tyne Bridge",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://newcastlegateshead.com/explore/quayside",
+      "https://newcastlegateshead.com/business-directory/things-to-do/tyne-bridge"
+    ],
+    "original_fil": "AU39_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "f4ea1daabacd236e918a24e4133c3a487a78c71fedb116670a3d0212ac8225ed",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU39_byliv.webp",
+    "sha256": "aaa1a604b27dcd7c8222a42e132e959c394fa8a5c6287c6c2f4d7584eb5042c9",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU40",
+    "universitet": "University of Aberdeen",
+    "kategori": "Campus",
+    "motiv": "King’s College Chapel med kronetårnet, Old Aberdeen",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://her.aberdeenshire.gov.uk/Monument/MAB24333",
+      "https://www.abdn.ac.uk/media/site/events/documents/old_aberdeen_trail.pdf",
+      "https://www.visitscotland.com/things-to-do/attractions/free/aberdeen"
+    ],
+    "original_fil": "AU40_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "29222feffab5134e1778a05fd68ee18bf8c449996882eac8d7af3d5a2919484d",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU40_campus.webp",
+    "sha256": "3d4787f71cda44422ec237323567973b17bd57d70d6b63766a0cb7b2e2d0d105",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU40",
+    "universitet": "University of Aberdeen",
+    "kategori": "Studiemiljø",
+    "motiv": "Studiearbejde i det skulpturelle atrium i Sir Duncan Rice Library",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.shl.dk/en/work/university-of-aberdeen-library",
+      "https://perkinswill.com/project/university-of-aberdeen-library-united-kingdom/"
+    ],
+    "original_fil": "AU40_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "3e0f636b756beff2f4873582a4e3f92de50713fb9c14604b5d79be109fcdda83",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU40_studiemiljo.webp",
+    "sha256": "847325ee0e646727fd0ef1d1dafa0ca1a192772f6fad69c8396cca82e7c2c0e8",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU40",
+    "universitet": "University of Aberdeen",
+    "kategori": "Byliv",
+    "motiv": "Kystliv mellem fiskerhusene i Footdee",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://visitabdn.com/regions/city",
+      "https://industry.visitabdn.com/places/old-aberdeen"
+    ],
+    "original_fil": "AU40_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "2878d11ec9d2c8240e16a5c794b043fc740505032c328279bad5e9b97ee839ea",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU40_byliv.webp",
+    "sha256": "43bf88886646c873766f716662c8e934b87df612af54e48564d506b7323a7b14",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU42",
+    "universitet": "University of Liverpool",
+    "kategori": "Campus",
+    "motiv": "Victoria Building og klokketårnet ved Ashton Street",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.liverpool.ac.uk/about/our-campus/campuses/",
+      "https://www.liverpool.ac.uk/victoria-gallery-and-museum/about-us/building-history/"
+    ],
+    "original_fil": "AU42_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "1ee489a3d93fcecbec86056119506c8c21f967c26002083a7ed6bf2865ed74bb",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU42_campus.webp",
+    "sha256": "70ba4be03d7a5ab15f1ecb19867afeee8ffb2d98e0234db9cd10a5ebc799b6bc",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU42",
+    "universitet": "University of Liverpool",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende på fagligt besøg i Tate Hall",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.liverpool.ac.uk/victoria-gallery-and-museum/about-us/tate-hall/",
+      "https://www.liverpool.ac.uk/victoria-gallery-and-museum/about-us/building-history/",
+      "https://www.liverpool.ac.uk/giving/news/stories/title%2C1526605%2Cen.php"
+    ],
+    "original_fil": "AU42_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "adb5683debde502716d088deec33754f374b00fb5e8419907b51a1a742536c6c",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU42_studiemiljo.webp",
+    "sha256": "2fb7d851a1b80090e474cb487c45b298b89a3d5790434140f1a77d12a9f06f45",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU42",
+    "universitet": "University of Liverpool",
+    "kategori": "Byliv",
+    "motiv": "Aftenliv i Royal Albert Docks søjlegang",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://albertdock.com/food-and-drink/",
+      "https://albertdock.com/places-for-a-pre-or-post-show-drink/"
+    ],
+    "original_fil": "AU42_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "e19a77fc5ff61b4ecf9a6f7a814c7e8084be7cb815d0a0608f9b6f2ea88f2273",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU42_byliv.webp",
+    "sha256": "9c0d02f00922a4a0d7b3a5aca629ed1f0425145134daf04a358b373da47505f5",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU43",
+    "universitet": "University of Sussex",
+    "kategori": "Campus",
+    "motiv": "Basil Spences Falmer House set fra den murede passage",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.sussex.ac.uk/about/60-years-of-sussex/history/campus",
+      "https://www.sussex.ac.uk/broadcast/read/66013",
+      "https://www.sussex.ac.uk/broadcast/read/65280",
+      "https://www.geograph.org.uk/photo/3544046"
+    ],
+    "original_fil": "AU43_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "e16b9e58c6c6ad896439c49d0f896c467fae1cd1dec20d0879717fc05e765a6e",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU43_campus.webp",
+    "sha256": "69e586308f2ca85a117f7575b9086a42a1cd64c3bac73fb9b099819217de0bb7",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU43",
+    "universitet": "University of Sussex",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende i det farvede lys i Meeting House",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.sussex.ac.uk/about/campus/chaplaincy/",
+      "https://www.sussex.ac.uk/about/60-years-of-sussex/60-objects/life-at-sussex-objects"
+    ],
+    "original_fil": "AU43_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "6cfaf460f895714727a25d81b080d480955362a4894780ca61b67ddb28da0c24",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU43_studiemiljo.webp",
+    "sha256": "c4b01a8016b039bc2cfb0fa2da6f973aaaec7a902f2c110283b1f49a4d9897be",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU43",
+    "universitet": "University of Sussex",
+    "kategori": "Byliv",
+    "motiv": "Caféliv langs Kensington Gardens i Brightons North Laine",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.visitbrighton.com/food-and-drink/areas-to-explore/north-laine",
+      "https://www.tradingpostcoffee.co.uk/pages/trading-post-coffee-roasters-brighton-kensington-gardens"
+    ],
+    "original_fil": "AU43_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "a1a2b0772b981135bfd060815625cc23c0fb08ef2aff1b7ed44c4eed8a778b8e",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU43_byliv.webp",
+    "sha256": "7e7c64673c6c76d6c9bdddaf77d28fd66ca69349bd52ec97442ae677525391c4",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU44",
+    "universitet": "Georgia State University",
+    "kategori": "Campus",
+    "motiv": "Georgia State College of Law ved Park Place og John Wesley Dobbs Avenue",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://law.gsu.edu/admissions/visit/law-building-8/",
+      "https://news.gsu.edu/files/2019/10/35032661595_1cffa932ba_c.jpg",
+      "https://law.gsu.edu/about/",
+      "https://commons.wikimedia.org/wiki/File:Georgia_State_University_College_of_Law_Building.jpeg"
+    ],
+    "original_fil": "AU44_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "cedbbdf8333c81f25be9402cf1a5261a04200147e2a75e7e43256987047dfb60",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU44_campus.webp",
+    "sha256": "5ee2c9efd88205efc528a43e250303c5629329a2a8d9d0db01b9f36b5d0c7a97",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU44",
+    "universitet": "Georgia State University",
+    "kategori": "Studiemiljø",
+    "motiv": "Procedureøvelse i universitetets Ceremonial Courtroom i Atlanta",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://law.gsu.edu/about/guest-event-services/",
+      "https://news.gsu.edu/2026/04/07/georgia-state-laws-hub-for-real-world-legal-experience/",
+      "https://law.gsu.edu/about/guest-event-services/ceremonial-courtroom-2/"
+    ],
+    "original_fil": "AU44_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "277f55110e16db1e1215b8e3be73aa7e5011a4ae7cc924939a9e8f6937949633",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU44_studiemiljo.webp",
+    "sha256": "c6167a4ee325ba8d1bb52f33622f512d375f7650bb83f5771092d4e16468ecc2",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU44",
+    "universitet": "Georgia State University",
+    "kategori": "Byliv",
+    "motiv": "Byliv på Atlanta Beltline ved Ponce City Market",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://discoveratlanta.com/things-to-do/shopping/ponce-city-market/",
+      "https://discoveratlanta.com/stories/tour-atlanta-beltline-from-krog-street-market-to-ponce-city-market/"
+    ],
+    "original_fil": "AU44_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "f6a9dbb3102419615c2a5fb70226ac02ec53b2b4cc9cc135ad993aba67f3d39b",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU44_byliv.webp",
+    "sha256": "43c3425b74bcdea802e0d7d8ee32b59bfc5fe558b2022d459fa5febddc263ff6",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU45",
+    "universitet": "South Texas College of Law Houston",
+    "kategori": "Campus",
+    "motiv": "South Texas College of Law Houstons indgang på San Jacinto Street",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.stcl.edu/admissions/visit/",
+      "https://www.southwestern.edu/live/events/17772-south-texas-college-of-law-information-session"
+    ],
+    "original_fil": "AU45_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "0ce2d3a49256cd665d8d3879cd38c50d438e438d27928d233eecb919bb982aa8",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU45_campus.webp",
+    "sha256": "cf53a0577a3a0250fabb1d9644d4c7684a922cc7f55b90581c0e28a197814bca",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU45",
+    "universitet": "South Texas College of Law Houston",
+    "kategori": "Studiemiljø",
+    "motiv": "Procedureøvelse i det faktiske T. Gerald Treece Courtroom i Houston",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.stcl.edu/news/south-texas-law-hosts-texas-court-of-criminal-appeals-for-oral-arguments/",
+      "https://www.stcl.edu/wp-content/uploads/2026/10/cca-2026-1-768x512.jpg"
+    ],
+    "original_fil": "AU45_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "c70bca11f76eb0acff244f5b222595996c9479da57c436d3c35ea88627ad057e",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU45_studiemiljo.webp",
+    "sha256": "e79c5deb445a8692219ad817e633532203a48653f90877bf1b36967ce307ee8a",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU45",
+    "universitet": "South Texas College of Law Houston",
+    "kategori": "Byliv",
+    "motiv": "Byliv ved Market Square Park i Houstons historiske centrum",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://downtownhouston.org/post/explore-historic-market-square-downtown-houston",
+      "https://downtownhouston.org/experience/neighborhoods/historic-district"
+    ],
+    "original_fil": "AU45_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "fc67c66387de60a3ec6bacac629f7922c0658687024ef30e2e7c86f23f286230",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU45_byliv.webp",
+    "sha256": "79c2f1ff6805bbc2ff7f539dfd6946ca2ab4d9b0d4e29a2a974a1139fdba7ac8",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU46",
+    "universitet": "University of Oklahoma",
+    "kategori": "Campus",
+    "motiv": "Andrew M. Coats Hall med springvand og indgangen til College of Law",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://home.oufoundation.org/s/1720/bp22-micro/interior2.aspx?gid=2&pgid=2306&sid=1720",
+      "https://law.ou.edu/about/news/ou-law-climbs-13th-value-rankings"
+    ],
+    "original_fil": "AU46_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "25216b32a764740d85911cbd9dcd633d8bbab3f204e5e57fe59c42a635f9207a",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU46_campus.webp",
+    "sha256": "435dc868c0fd7589d109d93a23e2aac549ab9581052f695988d425380db54627",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU46",
+    "universitet": "University of Oklahoma",
+    "kategori": "Studiemiljø",
+    "motiv": "Juridisk studiegruppe i Chapman Reading Room i Coats Hall",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://law.ou.edu/ou-law-experience/facilities",
+      "https://law.ou.edu/library/about"
+    ],
+    "original_fil": "AU46_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "845bedc1591acbb2f00b2a930da89dc0d323ef6b76aaf3c38e9b25036e3b5e4e",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU46_studiemiljo.webp",
+    "sha256": "a34074e8f6894193400c8e228c5b4124fce1ced2d1dff3e8ed9fb09ef5e7c738",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU46",
+    "universitet": "University of Oklahoma",
+    "kategori": "Byliv",
+    "motiv": "Byliv på Campus Corner i Norman",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.visitnorman.com/ou/visiting-campus/campus-corner/",
+      "https://www.visitnorman.com/blog/stories/post/patio-season/"
+    ],
+    "original_fil": "AU46_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "c139bc7a4e5ef6155bdb61e04e815ba6ff53126c191475788cd1d15160b4f9ac",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU46_byliv.webp",
+    "sha256": "7e53df0ed7281f88c39407ecbfaeccd9b2f75810dc7b6ea5acfbbc684837e28f",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC01",
+    "universitet": "Western Sydney University",
+    "kategori": "Campus",
+    "motiv": "Peter Shergold Building, universitetets campus på 1 Parramatta Square",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.westernsydney.edu.au/campuses_structure/cas/campuses/parramattacity/one_parramatta_square",
+      "https://johnholland.com.au/what-we-do/our-projects-and-specialisations/one-parramatta-square",
+      "https://architectureau.com/articles/architectus-designed-wsu-campus-opens-at-the-heart-of-parramatta-square-redevelopment/"
+    ],
+    "original_fil": "UC01_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "64be602823c94600ca38688923e1ff1a5d5f492f5e5521cc4a5b4f88bba233e1",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC01_campus.webp",
+    "sha256": "2388228fa2f98e4102d1fe3bc4870b2b9ebefebefa11ed5877b15c7b7b4cf3a4",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC01",
+    "universitet": "Western Sydney University",
+    "kategori": "Studiemiljø",
+    "motiv": "Samarbejde blandt studerende i Peter Shergold Buildings atrium",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.westernsydney.edu.au/provosts/parramatta-city",
+      "https://johnholland.com.au/what-we-do/our-projects-and-specialisations/one-parramatta-square",
+      "https://assets.architectureanddesign.com.au/z0092_Interior_Atrium_Credit-Sally-Tsoutas.jpg"
+    ],
+    "original_fil": "UC01_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "783c2b017c0fd200d2e4813496c7462f7fefe3d5a27d54717ee8ac11dac3a133",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC01_studiemiljo.webp",
+    "sha256": "850169666e3fee870a8bb99a9204106899b655f3913b5cbfa6ba74c96684855f",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC01",
+    "universitet": "Western Sydney University",
+    "kategori": "Byliv",
+    "motiv": "Byliv på Parramatta Square ved det røde PHIVE i det vestlige Sydney",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.cityofparramatta.nsw.gov.au/community/parks-and-public-spaces/public-squares/parramatta-square",
+      "https://www.cityofparramatta.nsw.gov.au/phive/about-phive"
+    ],
+    "original_fil": "UC01_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "766ab34ce3142811d3618fe7179fc3ecd32d07e1cd81cd8fa74137a8d7c5969a",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC01_byliv.webp",
+    "sha256": "477904d11cee53457c5fb03c43ff4070195c0256879dfb6c4dbf52d02d6204eb",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC02",
+    "universitet": "Southern Cross University",
+    "kategori": "Campus",
+    "motiv": "Building C på Southern Cross Universitys Gold Coast-campus i Bilinga",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/",
+      "https://www.scu.edu.au/media/scu-dep/experience/campuses/images/RS17222_Gold-Coast-building-C_20171101_001-1-380kb.jpg"
+    ],
+    "original_fil": "UC02_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "3962fa688a744ea8dab7c1f6013b2940ad2cbd0bddd872d2ecdba7ae1692db9f",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC02_campus.webp",
+    "sha256": "47e2e54cb859f54feb42f1f7bfdb82ae8f31d3c017d72abaa9a0eae379bde300",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC02",
+    "universitet": "Southern Cross University",
+    "kategori": "Studiemiljø",
+    "motiv": "Juridisk studiearbejde i bibliotekets læringsmiljø på Gold Coast-campus",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.scu.edu.au/library/about-us/",
+      "https://www.scu.edu.au/library/about-us/discovery-wall/"
+    ],
+    "original_fil": "UC02_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "3a2ddcd2f6bf8e14a820561102ba3b3291d0465ff6aee44446db8f7ff6ba2563",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC02_studiemiljo.webp",
+    "sha256": "55db74bfadfc81a01ba62873ade7d8c9229578f763ca1e2648d0faeb939e27aa",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC02",
+    "universitet": "Southern Cross University",
+    "kategori": "Byliv",
+    "motiv": "Kystliv i John Laws Park ved Burleigh Headland, Gold Coast",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://experiencegoldcoast.com/places-to-go/central-gold-coast/things-to-do/john-laws-park-au0097424"
+    ],
+    "original_fil": "UC02_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "dedca53b29c1bac9a093b14adc9fa38013efe82b52864969bcb76a70ffe4bbf7",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC02_byliv.webp",
+    "sha256": "57434fbe0900b0f3bdb367b3f6df4f8aa1c65a970ece92197cf2ee7c49727aa7",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC03",
+    "universitet": "Curtin University",
+    "kategori": "Campus",
+    "motiv": "Den historiske Curtin Law School på 57 Murray Street i Perth",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.curtin.edu.au/about/campus-locations/murray-street/",
+      "https://www.nationaltrustwa.com.au/explore-and-learn/our-place-portfolio/57-murray-street/",
+      "https://www.westernprojects.com.au/project/57-murray-street/"
+    ],
+    "original_fil": "UC03_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "ce6d275589b1493242b4a0cd997d22c7f8861e3655267b4a2cd661c013dcac1f",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC03_campus.webp",
+    "sha256": "1641831b318dfd595a564ffd8279389b94dc25d39c9d9a49e64e12ae4b6e4246",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC03",
+    "universitet": "Curtin University",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende omkring et bord i Curtin Law Schools fællesrum på Murray Street",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.curtin.edu.au/about/campus-locations/murray-street/",
+      "https://iagroup.com.au/ia-projects/curtin-law-school/",
+      "https://iagroup.com.au/wp-content/uploads/2024/01/ia-design-curtin-law-school-1.jpg"
+    ],
+    "original_fil": "UC03_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "61d8b238d74d8e0a35871fc8d9149e976a3d21b35e2457875e569f9934830343",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC03_studiemiljo.webp",
+    "sha256": "62fc505c0bfc63e809df5aa3b5c65ae9b3fe98b7a6dfb8997711721588a981d9",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC03",
+    "universitet": "Curtin University",
+    "kategori": "Byliv",
+    "motiv": "Byliv på Elizabeth Quay i Perth ved Spanda",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://developmentwa.com.au/projects/redevelopment/elizabeth-quay/spanda",
+      "https://visitperth.com/venues/oyster-bar-elizabeth-quay"
+    ],
+    "original_fil": "UC03_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "62371f7a926ccf269dc1d14f6fb0b380311d3890e375d74bc107db8ae65f8ce9",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC03_byliv.webp",
+    "sha256": "8c1a94dd678392d1e3ab2dd10e82339c38d3978f0525558941d1aafdacad1ccc",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC04",
+    "universitet": "Deakin University",
+    "kategori": "Campus",
+    "motiv": "Deakin Law School Building ved Burwood Highway i Melbourne",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.deakin.edu.au/about-deakin/locations/campuses/melbourne-burwood/building-projects/law-school-building",
+      "https://www.woodsbagot.com/projects/deakin-law-building/",
+      "https://wpassets.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2021/04/24075355/210316-Deakin-LC-03410353-640x573.jpg"
+    ],
+    "original_fil": "UC04_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "464845b3dfc850855f6a984d0861791a2e2ffd3ca08c55c04edbbeb0332503a3",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC04_campus.webp",
+    "sha256": "6cee76246b2a1beab73131a7f9ee791c87d61cb90748b51ffe017f9dda92ea91",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC04",
+    "universitet": "Deakin University",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende i læringsrummet i Deakins Law School Building på Burwood-campus",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.woodsbagot.com/projects/deakin-law-building/",
+      "https://www.deakin.edu.au/faculty-of-business-and-law/facilities",
+      "https://wpassets.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2021/04/24075404/210316-Deakin-LC-0601-640x427.jpg"
+    ],
+    "original_fil": "UC04_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "37f798c451581c53672a714d8d8ef53ae52e96d7cac4447f525932b58c3a101a",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC04_studiemiljo.webp",
+    "sha256": "1e8e23aeac11874856dc60c0b85209ed968ae0d856e692b6c5832d1f6db88f2f",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC04",
+    "universitet": "Deakin University",
+    "kategori": "Byliv",
+    "motiv": "Caféliv på Degraves Street i Melbourne",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://whatson.melbourne.vic.gov.au/article/ultimate-guide-to-degraves-street",
+      "https://www.visitvictoria.com/regions/melbourne/destinations/streets/vv-degraves-street"
+    ],
+    "original_fil": "UC04_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "c346bcb6414fa985bea5606e5b214467f455cf5682d5792d2da5d1e5012a6262",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC04_byliv.webp",
+    "sha256": "be804892c9c63cc0ab9d9a53117218fbccfbae82ad032798a0a3da7939e07fb3",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC05",
+    "universitet": "Kwantlen Polytechnic University",
+    "kategori": "Campus",
+    "motiv": "Wilson School of Design på KPU's Richmond-campus",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.kpmb.com/wilson-school-of-design-kwanthlen-polytechnic-university/",
+      "https://www.kpu.ca/news/image",
+      "https://www.kpu.ca/design/wilson-timelapse"
+    ],
+    "original_fil": "UC05_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "f373e21b87e77f354a04bb48f0f719b6c7b90b5240249a16cf4cb9c2ab9f6d48",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC05_campus.webp",
+    "sha256": "d78d18920d7ca86a9860cff8c97e8215d6563c4186a91098abf38408e3752740",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC05",
+    "universitet": "Kwantlen Polytechnic University",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende i Wilson School of Designs værksted på Richmond-campus",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.kpmb.com/wilson-school-of-design-kwanthlen-polytechnic-university/",
+      "https://amegroup.ca/project/kpu-wilson-school-of-design/"
+    ],
+    "original_fil": "UC05_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "ffa15670fc98aba074544443f72f4489f645bf2a2d989868636edff2f375906f",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC05_studiemiljo.webp",
+    "sha256": "358a0fd865733b3b35c96360f09fbffbce25f9e44294f4d89bd321ef78964924",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC05",
+    "universitet": "Kwantlen Polytechnic University",
+    "kategori": "Byliv",
+    "motiv": "Byliv mellem fiskerbådene ved Fisherman's Wharf i Steveston, Richmond",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.visitrichmondbc.com/blogs/art-culture-history/a-day-at-fishermans-wharf/",
+      "https://www.visitrichmondbc.com/partners/steveston-harbour-authority/"
+    ],
+    "original_fil": "UC05_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "d50cd61c04dd85a1dc7a0f971dfb7f27e781d9ec76732b8910cabfc58a3b3531",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC05_byliv.webp",
+    "sha256": "19de0548b8da63a04ed4e2d507d5b1126e05bb0de88883bdbdf4f2454fe20c82",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC06",
+    "universitet": "University of Central Lancashire, Cyprus",
+    "kategori": "Campus",
+    "motiv": "UCLan Cyprus' hovedindgang på campus i Pyla",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.uclancyprus.ac.cy/embracing-diversity-in-a-university-without-limitations/",
+      "https://www.uclancyprus.ac.cy/use-of-campus-areas/"
+    ],
+    "original_fil": "UC06_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "0baf508584ac9e4f8cce7a44cff6b2a474d97ee6c12d205069f3ee8d83660eff",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC06_campus.webp",
+    "sha256": "c1feac705e941d9a9414356499642bf327808e904c7a2e722901c01881b8eb5a",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC06",
+    "universitet": "University of Central Lancashire, Cyprus",
+    "kategori": "Studiemiljø",
+    "motiv": "Procedureøvelse i universitetets Moot Court i Pyla",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.uclancyprus.ac.cy/discover/the-campus/moot-court/",
+      "https://www.uclancyprus.ac.cy/school/department-of-law/",
+      "https://www.uclancyprus.ac.cy/wp-content/uploads/2025/03/DSC_0058-optimized.jpg"
+    ],
+    "original_fil": "UC06_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "2549d8e6b081da8eba73cd761bab79444047b9b6e165184acfaf9c90c392fdb6",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC06_studiemiljo.webp",
+    "sha256": "83c04939009bbd52db427026e5423353fd6452a73cdd6021473b037115981069",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC06",
+    "universitet": "University of Central Lancashire, Cyprus",
+    "kategori": "Byliv",
+    "motiv": "Aftenliv på Foinikoudes-promenaden i Larnaka",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://larnakaregion.com/en/foinikoudes-promenade",
+      "https://www.visitcyprus.com/discover-cyprus/sun-sea/beaches/foinikoudes-beach-blue-flag/"
+    ],
+    "original_fil": "UC06_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "4b54ca5b88f4aa8d8bd6b5d16931f57a27be914ac949983ac553bb285b997af2",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC06_byliv.webp",
+    "sha256": "679521586fda566a317049d8716486b05565c77be1d66ab6a00f777f01c90fae",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC07",
+    "universitet": "Dublin Business School",
+    "kategori": "Campus",
+    "motiv": "Dublin Business Schools indgang på Aungier Street i Dublin",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://kaplan.co.uk/about/locations/dublin-business-school",
+      "https://moloneygroup.ie/portfolio-item/dublinbusinessschool/",
+      "https://www.dbs.ie/docs/default-source/marketing/dbs-institutional-profile.pdf"
+    ],
+    "original_fil": "UC07_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "f25808e6f42519a56c3f019bfc1ec651c49085a7dceb026858bfc0bfd18d0adf",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC07_campus.webp",
+    "sha256": "875558703a54bcf390d9c6624926cfbd525ec9c587f07b863f0462ddd7afd8a2",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC07",
+    "universitet": "Dublin Business School",
+    "kategori": "Studiemiljø",
+    "motiv": "Juridisk gruppearbejde i studieområdet på Aungier Street",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://libguides.dbs.ie/library-essentials/about",
+      "https://dkou0skpxpnwz.cloudfront.net/customers/3841/images/66CBBB4C-B40F-404D-893E-4B68CF7F4E84.jpg"
+    ],
+    "original_fil": "UC07_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "81174a29c4a5755f5fe0106f330cabb91be3fa81bce32576c2d6cc30efcec566",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC07_studiemiljo.webp",
+    "sha256": "0d25b340ddf4cad44e22fe21af1bd703236c0d17899415fec6a59ce4bb576ed8",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC07",
+    "universitet": "Dublin Business School",
+    "kategori": "Byliv",
+    "motiv": "Handelsliv under tag i George’s Street Arcade",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://georgesstreetarcade.ie/",
+      "https://www.visitdublin.com/george-s-street-arcade"
+    ],
+    "original_fil": "UC07_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "df0d50c78105eb85ac5d5ffa2b9fe4d92d61169a28951cfdeb7a0f9e0d35aab9",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC07_byliv.webp",
+    "sha256": "a45e2d1801081038e31d50c0fe3a375a474dfdef52e1285434788235f19878a0",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC08",
+    "universitet": "Technological University of the Shannon (TUS)",
+    "kategori": "Campus",
+    "motiv": "Hovedbygningen på TUS Moylish-campus i Limerick",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://tus.ie/campuses/moylish/",
+      "https://tus.ie/app/uploads/Marketing/CampusPics/Moylish/TUS-Moylish-Campus-2024-12.jpg"
+    ],
+    "original_fil": "UC08_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "dd957132b8fd8d0b51023b3e0077d61b0c2f157a82d2be33b685a0c5ac5ce315",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC08_campus.webp",
+    "sha256": "099cd47f4aecd2daa6ff8af62cee41b6f17c5681c1dc6cb9af7e37af77220edb",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC08",
+    "universitet": "Technological University of the Shannon (TUS)",
+    "kategori": "Studiemiljø",
+    "motiv": "Studenterforeningsmesse i Moylish Streets overdækkede campusstrøg",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://tus.ie/estates/midwest/maps/",
+      "https://tus.ie/app/uploads/Marketing/CampusPics/Moylish/TUS-Moylish-Street-e1694431195456.jpg"
+    ],
+    "original_fil": "UC08_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "3dc1aac851b2c5ec27ae6e337d3423704faa02b436efd8f95289ef15e8c7f414",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC08_studiemiljo.webp",
+    "sha256": "40bf43d49908539c582ddee3e82fd8d8b67fbebf488ceb63ecbf2dfd620978c2",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC08",
+    "universitet": "Technological University of the Shannon (TUS)",
+    "kategori": "Byliv",
+    "motiv": "Lørdagsstemning under sejldugen ved Limerick Milk Market",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.limerick.ie/discover/eat-see-do/shopping/markets-and-fairs/limerick-milk-market",
+      "https://www.milkmarketlimerick.ie/"
+    ],
+    "original_fil": "UC08_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "4e648598bdd501713c8d2368184875de17648a5a382d4d5ca28ca993ac7a0d48",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC08_byliv.webp",
+    "sha256": "ec9098b87dc51a44863a0c8eb90711b6e3d30fd12d0019178fb4c33d58d55038",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC09",
+    "universitet": "Università Europea di Roma",
+    "kategori": "Campus",
+    "motiv": "UER’s hovedbygning ved det cirkulære gårdrum på Via degli Aldobrandeschi",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://apply.universitaeuropeadiroma.it/",
+      "https://www.uer.it/en/",
+      "https://www.vaticannews.va/it/chiesa/news/2026-03/oltre-aula-al-servizio-del-prossimo-pasqua-universita-europea.html"
+    ],
+    "original_fil": "UC09_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "0614891623a6dab921c3b68b7849d87aec044e36a459e70832cf615d38b2ec43",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC09_campus.webp",
+    "sha256": "00a70ea06f603f4efe855c8ec81cf58487b32ab27b60dd9a12c30c34a37c9568",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC09",
+    "universitet": "Università Europea di Roma",
+    "kategori": "Studiemiljø",
+    "motiv": "Forelæsning med studerende i UER’s Auditorium Giovanni Paolo II",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.uer.it/wp-content/uploads/2018/06/GuidaStudente.pdf",
+      "https://www.avvenire.it/attualita/alluniversita-europea-di-roma-dialogo-sul-futuro-della-speranza_100101"
+    ],
+    "original_fil": "UC09_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "9e4e7e868e3a1da2f74204141dd96836d811719e46f46c58e091ab919f1ba195",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC09_studiemiljo.webp",
+    "sha256": "cf7975408ae1359846ea156ba74dc991f9ac63807952761e815782bdc4a7b34e",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC09",
+    "universitet": "Università Europea di Roma",
+    "kategori": "Byliv",
+    "motiv": "Aftenliv på Piazza di Santa Maria in Trastevere i Rom",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.turismoroma.it/en/places/piazza-di-santa-maria-trastevere"
+    ],
+    "original_fil": "UC09_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "71985261a4af44633433ccde4388acf766863912e1206fb954e8c0649a619ccf",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC09_byliv.webp",
+    "sha256": "ad1e25b31500e1004adb677e270aa3823221757bd09e91ca323ad775bcbcce1c",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC10",
+    "universitet": "Monash University Malaysia",
+    "kategori": "Campus",
+    "motiv": "Monash University Malaysias hovedindgang i Bandar Sunway",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.monash.edu.my/about/welcome/photobook",
+      "https://www.monash.edu.my/alumni/benefits/campus-access",
+      "https://gostralia-gomerica.de/universitaet/malaysia/monash-university-malaysia"
+    ],
+    "original_fil": "UC10_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "ee5f282d6ae16549811d3dd9d7dbc04d804e71ffe2ac33fe732dcc8f9b326e8e",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC10_campus.webp",
+    "sha256": "e94e7c0d14b0a8acbb2cb90325e87cd8d68c0700706c7f819029e8bbda009372",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC10",
+    "universitet": "Monash University Malaysia",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende i de nye studieområder i Monash University Malaysias Library and Learning Commons",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.monash.edu.my/library/about/new-library-look",
+      "https://sites.google.com/monash.edu/libraryorientation-ug/library-spaces",
+      "https://www.monash.edu.my/pages/latest/articles/2024/a-new-era-in-learning-spaces"
+    ],
+    "original_fil": "UC10_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "c75d461acee7ce7136233d4e813a569d3a810efbc477703671f929f767a4fd8b",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC10_studiemiljo.webp",
+    "sha256": "c405181d53b68a8f6bd381d6ced0bc5ddfa1111afe0ebfd8f34ad63abd3d9e63",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC10",
+    "universitet": "Monash University Malaysia",
+    "kategori": "Byliv",
+    "motiv": "Aftenliv ved spisestederne på Sunway GEO Avenue i Bandar Sunway",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://spfm.com.my/GEOAvenue1/photo_gallery.html?menu_id=11&pid=1",
+      "https://sunwayproperty.com/sunway-geo-avenue/",
+      "https://www.monash.edu.my/student-life/living-in-bandar-sunway"
+    ],
+    "original_fil": "UC10_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "71b3dfb339675c00cd00d5af95a2190fdf177445a4875b494e73324d22af2419",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC10_byliv.webp",
+    "sha256": "afcd0d10ac4f011ad426e6dff82620d2b121c8eb549273eafd8aff5ade593efe",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC11",
+    "universitet": "University of Malta",
+    "kategori": "Campus",
+    "motiv": "University of Maltas Quadrangle og springvand på Msida-campus",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.um.edu.mt/campuses/msida/campusmap/",
+      "https://www.um.edu.mt/newspoint/news/2024/04/boost-of-colour-campus-landmark",
+      "https://uz.zgora.pl/en/galleries/university-of-malta-1-29.html"
+    ],
+    "original_fil": "UC11_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "6e853591716315d1a0dbfef51f7cdd3ddd48cbd73418c5120ff155920447922b",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC11_campus.webp",
+    "sha256": "fac82ab7a70e9383d21571d890f0a23e43ae73ecec9b89ffbae7e27cd4edac29",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC11",
+    "universitet": "University of Malta",
+    "kategori": "Studiemiljø",
+    "motiv": "Fagligt arrangement i Aula Magna på University of Maltas Valletta-campus",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.um.edu.mt/campuses/valletta/",
+      "https://www.um.edu.mt/event/ipp2022/conferencefacilities",
+      "https://www.um.edu.mt/__data/assets/image/0006/482991/IMG_32861_340x2271.jpg"
+    ],
+    "original_fil": "UC11_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "093f6b76a68a6b47970508ee0600d402abd908f7640aa0454c165062e6ec3ef3",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC11_studiemiljo.webp",
+    "sha256": "5edf6daab0c7695d4cc7f8c2ab7e4bca85985b23cad63dc826107cece8a6042b",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC11",
+    "universitet": "University of Malta",
+    "kategori": "Byliv",
+    "motiv": "Aftenliv på Strait Street i Valletta",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.visitmalta.co.uk/restaurants/valletta",
+      "https://streat.com.mt/"
+    ],
+    "original_fil": "UC11_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "ee25f42d3d75a70dab488cf926f24ed5276f63c9fdc1770bfd092fb3ddc33747",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC11_byliv.webp",
+    "sha256": "61fca620af756d730765b90a53e7bd6fdf142fe040b5d4c8ca9d7693cfbd2345",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC12",
+    "universitet": "Massey University",
+    "kategori": "Campus",
+    "motiv": "Atrium Building på Massey Universitys Albany-campus",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://brandlibrary.massey.ac.nz/asset-page/365260-massey-business-school",
+      "https://www.massey.ac.nz/student-life/campus-guides-maps/auckland-campus-guide-and-maps/"
+    ],
+    "original_fil": "UC12_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "aa00043ef3a1d8b0fd66d85059f6d64939cd62b3c2f3e244311c57356753fa9b",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC12_campus.webp",
+    "sha256": "275560a706ee47c89adcd0056f816e7e0e9055cf08db45a2190e35d6c3132028",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC12",
+    "universitet": "Massey University",
+    "kategori": "Studiemiljø",
+    "motiv": "Fælles studiearbejde i Massey Universitys Albany-bibliotek",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.wsp.com/en-nz/projects/massey-university-albany-library",
+      "https://www.massey.ac.nz/study/library/campus-libraries-and-off-campus-library-services/auckland-campus-library-services/"
+    ],
+    "original_fil": "UC12_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "1e0125c0cfd75382049e28648fa66a7fae4ce3d309e478826a92305d47789587",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC12_studiemiljo.webp",
+    "sha256": "a71a01e1d24e7b68d1a743da726fadf26b687e60eb21065c5d383fa84f96da2a",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC12",
+    "universitet": "Massey University",
+    "kategori": "Byliv",
+    "motiv": "Byliv ved Auckland Wynyard Quarters North Wharf",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.aucklandnz.com/explore/wynyard-quarter",
+      "https://www.aucklandnz.com/inspire/a-day-out-in-wynyard-quarter-your-guide-to-aucklands-waterfront"
+    ],
+    "original_fil": "UC12_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "101023b77493e21c4c1c839fe124d49c8f913038931918cceccee8854605d51f",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC12_byliv.webp",
+    "sha256": "6f757259aa5b5ad08d98d9eb2e0dbd8dae9afce771312c3dc02f5c74837531dd",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC13",
+    "universitet": "Universidad de Alicante",
+    "kategori": "Campus",
+    "motiv": "Museo de la Universidad de Alicante og spejlbassinet på campus i Sant Vicent del Raspeig",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://mua.ua.es/",
+      "https://arquitecturaviva.com/works/museo-universitario-alicante"
+    ],
+    "original_fil": "UC13_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "83e963a1cc64f8391ff008fb3c76c76d9261ede96463bdcdda8329fa9f2053c1",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC13_campus.webp",
+    "sha256": "10286de2c83c692b65d66a779d96f20afad8fd25ebead64513792b384eec72f7",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC13",
+    "universitet": "Universidad de Alicante",
+    "kategori": "Studiemiljø",
+    "motiv": "Procedureøvelse i juraens Sala de Juicios",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://web.ua.es/es/actualidad-universitaria/historico/2015/octubre2015/octubre2015-19-25/la-universidad-de-alicante-estrena-una-sala-de-juicios-que-permitira-albergar-simulaciones-y-seguir-procesos-reales.html",
+      "https://ice.ua.es/en/jornadas-redes-2016/documentos/tema-1/805105.pdf"
+    ],
+    "original_fil": "UC13_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "06c25f2a109c8cd3dcce5c7acc2a510032bbdd89f73d91d2c3105eb46c5e148f",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC13_studiemiljo.webp",
+    "sha256": "828629cd0584ce64f9a16af1d050d10c0de38dd8a4f2b59d5d4b7e2eae8f9096",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC13",
+    "universitet": "Universidad de Alicante",
+    "kategori": "Byliv",
+    "motiv": "Byliv under palmerne på Explanada de España i Alicante",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://alicanteturismo.com/jardines/la-explanada-de-espana/"
+    ],
+    "original_fil": "UC13_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "55e5515960700f83a2a055242a81d425263cd8c79d1e19be0123852f622e6d20",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC13_byliv.webp",
+    "sha256": "4ce2c77db6a16f32e96f64ff12883e1ec028aa7d46c4a45c6dea6887e72b6e06",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC14",
+    "universitet": "University of Deusto",
+    "kategori": "Campus",
+    "motiv": "Deustos historiske La Literaria ved Bilbaos flod",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.deusto.es/en/home/somos-deusto/centros-universitarios/campus-sedes/campus-bilbao",
+      "https://www.uautonoma.cl/noticias/acuerdo-de-cooperacion-con-la-facultad-de-derecho-de-la-universidad-de-deusto/"
+    ],
+    "original_fil": "UC14_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "ee07b78fc59d29fb289dffccafa3f93c9bb6a80db7e01f6da8c322775d1faefe",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC14_campus.webp",
+    "sha256": "2d0474720dc0b59181c549890b99926ec3194da42bfd0188520f39c035c9b297",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC14",
+    "universitet": "University of Deusto",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende i Rafael Moneos Biblioteca CRAI",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://rafaelmoneo.com/en/projects/deusto-university-library/",
+      "https://www.deusto.es/en/home/campus-life/news-events/news/rafael-moneo-de-visita-por-deusto-y-su-biblioteca/noticia"
+    ],
+    "original_fil": "UC14_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "9c419432fb674be80268e619b2393f7e46cb122d0c5850a98d2656560dd52773",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC14_studiemiljo.webp",
+    "sha256": "e98ccb02a73f86604df5b2a78967c1d7e6303c278ecd833cd3526143238ebfa2",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC14",
+    "universitet": "University of Deusto",
+    "kategori": "Byliv",
+    "motiv": "Byliv med pintxos i Bilbaos Mercado de la Ribera",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.bilbaoturismo.net/BilbaoTurismo/En/pintxo-routes/the-ribera-market-and-its-gastropubs",
+      "https://www.bilbaoturismo.net/BilbaoTurismo/es/que-ver/mercado-de-la-ribera"
+    ],
+    "original_fil": "UC14_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "6a4ee20aec666bacd58a82b35af6256e60252223bf16ab721587730cd708f0c2",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC14_byliv.webp",
+    "sha256": "eb254ba23a7c8d3392afc4758f6ea85643345bead4e59eb4dbfb29f541fe28f8",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC15",
+    "universitet": "London Metropolitan University",
+    "kategori": "Campus",
+    "motiv": "Daniel Libeskinds Graduate Centre på Holloway Road i London",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://libeskind.com/work/london-metropolitan-university-graduate-centre/",
+      "https://www.londonmet.ac.uk/contact-us/how-to-find-us/tower-building/graduate-centre/"
+    ],
+    "original_fil": "UC15_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "8ed5b717278455ae71d76801b23e088a4081485ff70958ef04916a28133047bc",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC15_campus.webp",
+    "sha256": "3dc41cfee9579f2325d66b04072992cee934eabf951fe934229474705209ceb5",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC15",
+    "universitet": "London Metropolitan University",
+    "kategori": "Studiemiljø",
+    "motiv": "Procedureøvelse i London Metropolitan Universitys Mock Courtroom",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://new-www.londonmet.ac.uk/services-and-facilities/mock-courtroom/",
+      "https://www.londonmet.ac.uk/events/openday/schedule/holloway/"
+    ],
+    "original_fil": "UC15_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "53b0fec0434966de12de30063964e8d6388ab2f57374e427f68950d81256355d",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC15_studiemiljo.webp",
+    "sha256": "717200e693cb6105f55d32f07bd71bbf8096e18a6e52e36185ff227aa07b782f",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC15",
+    "universitet": "London Metropolitan University",
+    "kategori": "Byliv",
+    "motiv": "Café- og markedsliv på Camden Passage i Islington",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.visitlondon.com/things-to-do/place/24073440-camden-passage",
+      "https://www.visitlondon.com/things-to-do/london-areas/islington-and-angel/10-things-to-do-in-islington"
+    ],
+    "original_fil": "UC15_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "e3c8351ec1167f86f411c781d175b191250d5e53786fa116527288d89b12794c",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC15_byliv.webp",
+    "sha256": "e0cda5d5a5c4f01b22807f3ac27e98e65a0605ffbc9b8f0616e1ad0755850466",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC16",
+    "universitet": "University of Essex",
+    "kategori": "Campus",
+    "motiv": "Silberrad Student Centre ved søen på University of Essex' Colchester-campus",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.pateltaylor.co.uk/works/architecture/education-and-culture/university-of-essex",
+      "https://www1.essex.ac.uk/news/event.aspx?e_id=10168"
+    ],
+    "original_fil": "UC16_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "d017d1d0711a99c9685279873380353238fc3d1a396ffafd84c38d62f33179a1",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC16_campus.webp",
+    "sha256": "3857523bf67f92b234e113b6d2bc8325990af17d14cf427a12a457a42c410a13",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC16",
+    "universitet": "University of Essex",
+    "kategori": "Studiemiljø",
+    "motiv": "Studiemiljø ved vinduerne i Albert Sloman Library på Wivenhoe Park-campus",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.essex.ac.uk/student/places-to-study/study-places-colchester",
+      "https://www.ribaj.com/buildings/albert-sloman-library-and-silberrad-student-centre-colchester"
+    ],
+    "original_fil": "UC16_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "c1f8df02ed3406dfeb0606eb52293c3402567f90f8bbabf3cb2f571b456a7ca7",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC16_studiemiljo.webp",
+    "sha256": "6c0cb206dabe9eb9aa4862893933f4784a5334205a1119f289908ae54e070e32",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC16",
+    "universitet": "University of Essex",
+    "kategori": "Byliv",
+    "motiv": "Hverdagsliv ved Colchester Castle i Castle Park",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.visitcolchester.com/listing/castle-park/119065101/"
+    ],
+    "original_fil": "UC16_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "709102fa8fc6bba957080403635612d4ca7d6fa6d41bd5e36eed1a1b770ab47d",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC16_byliv.webp",
+    "sha256": "63bedbf85563ebef4d64046d59fdb5efe59dcc512f98043b3f5d21587b656b9b",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC17",
+    "universitet": "San Diego State University",
+    "kategori": "Campus",
+    "motiv": "Hepner Hall på San Diego State Universitys hovedcampus",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.sdsu.edu/news/2023/04/sdsus-class-2023-best-spots-campus-take-grad-photos",
+      "https://admissions.sdsu.edu/_resources/pdf/campus-tour-brochur-2026-final.pdf"
+    ],
+    "original_fil": "UC17_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "01c7d6b0ab874dcc88b4830131049ef1bc3e2cd6a5485cbaa541c839a2c4d665",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC17_campus.webp",
+    "sha256": "9da1eb01a7e52b8be746b5be79363c5f35f425806f18adaefc7c14709559bc10",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC17",
+    "universitet": "San Diego State University",
+    "kategori": "Studiemiljø",
+    "motiv": "Studenterforeninger ved Conrad Prebys Aztec Student Union",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.as.sdsu.edu/union/about/",
+      "https://www.as.sdsu.edu/union/asub/events/"
+    ],
+    "original_fil": "UC17_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "3fc6c550a08dc7a690c7c8a7dbdcd3b6db9773f7d034c716940fe1899075ed4f",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC17_studiemiljo.webp",
+    "sha256": "257898f2eaf76198c12fe9c9c574ba69bb07cc1c02962e7cdd5587d850b0cdc9",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC17",
+    "universitet": "San Diego State University",
+    "kategori": "Byliv",
+    "motiv": "Byliv ved Botanical Building og Lily Pond i San Diegos Balboa Park",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://balboapark.org/parks-trails-gardens/botanical-building-and-lily-pond-balboa-park/",
+      "https://www.sandiego.gov/park-and-recreation/parks/regional/balboa"
+    ],
+    "original_fil": "UC17_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "de0a2e41e9c0e11128e95fe4a2c6094893ac95f39cc723867a41ca802855f65b",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC17_byliv.webp",
+    "sha256": "b650a9f5badd6d415eaf384c79e21feb6639ea5106d968b6ded26d239b1c3057",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC18",
+    "universitet": "California State Polytechnic University, Pomona",
+    "kategori": "Campus",
+    "motiv": "Cal Poly Pomonas Student Services Building med det bølgede tag",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://coarchitects.com/projects/facades/cal-poly-pomona-student-services-building/",
+      "https://www.cpp.edu/news/content/2019/06/student-services-building-wins-architecture-award/index.shtml"
+    ],
+    "original_fil": "UC18_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "e6e339549b142c89ac0cbf87ac71caaae0d36175962f02877bedf36d340e8cf4",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC18_campus.webp",
+    "sha256": "39de23962cc18ba470c3be5852cff74f9dc3a82751382c80db80f62484a9719c",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC18",
+    "universitet": "California State Polytechnic University, Pomona",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende arbejder i et designstudie på Cal Poly Pomona",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.cpp.edu/env/architecture/resources/studio-culture.shtml",
+      "https://www.cpp.edu/arc/index.html"
+    ],
+    "original_fil": "UC18_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "5072b72f6a1ff52f84c16c7b1c47a207b105fc64d7f3f685fdb8e87613c3641d",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC18_studiemiljo.webp",
+    "sha256": "f8cade27f19048d3c0db3bb82ee8c4a1bf72761747294e9d40283a6ad5c6686b",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC18",
+    "universitet": "California State Polytechnic University, Pomona",
+    "kategori": "Byliv",
+    "motiv": "ArtWalk i Downtown Pomona Arts Colony",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.downtownpomona.org/artwalk",
+      "https://www.pomonaca.gov/Home/Components/News/News/616/14"
+    ],
+    "original_fil": "UC18_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "7724947df114eed6c5ee8ef20922a46fc81b2224a776b80cd0855680f9fcf8fc",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC18_byliv.webp",
+    "sha256": "f89d7bc54834779efed0e0aa16d8257ca320f981ce92b23d1ec52d2e933ffcfb",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC19",
+    "universitet": "California State University San Marcos",
+    "kategori": "Campus",
+    "motiv": "Kellogg Library og hovedtrappen på CSU San Marcos",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.csusm.edu/communications/brand-style-guide/redirect/campus-stock-photos/index.html",
+      "https://news.csusm.edu/photo-opportunities-abound-with-graduation-approaching/"
+    ],
+    "original_fil": "UC19_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "5361a342c2c406b57ee867d1f9f3efec9b7a48604d143301a20488ec9b6649b4",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC19_campus.webp",
+    "sha256": "a9587d6839fe5e7e9c720300fcaee6e9108f987d443eaac99ddab590da03c23e",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC19",
+    "universitet": "California State University San Marcos",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerendes arrangement i Student Unions udendørs amfiteater",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.csusm.edu/usu/about/buildinginfo/buildingspaces.html",
+      "https://www.csusm.edu/usu/about/buildinginfo/images/amphitheater.png"
+    ],
+    "original_fil": "UC19_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "35096eeca4a11a2ef0d0da6101db26acdca089586b5ca9c2841fb9745f75f0ce",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC19_studiemiljo.webp",
+    "sha256": "4b4aaff7359a2a3028427763bc550e477a19633bafc2eb0687259037ae8f346f",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC19",
+    "universitet": "California State University San Marcos",
+    "kategori": "Byliv",
+    "motiv": "Aftenliv ved restauranterne i North City i San Marcos",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.northcity.com/pages/visit-us",
+      "https://www.northcity.com/places/draft-republic"
+    ],
+    "original_fil": "UC19_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "d32e45ca33c726268acc58056bf569d1c6fac0a2549ce7e34582e2fb9d7f261f",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC19_byliv.webp",
+    "sha256": "0ae9ac5a74d3ff7cb58b72fd50a442506d59ecff0258b825934d950e472a9504",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC20",
+    "universitet": "California State University, San Bernardino",
+    "kategori": "Campus",
+    "motiv": "Santos Manuel Student Union North ved San Bernardino Mountains",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.csusb.edu/guided-tour/santos-manuel-student-union-north",
+      "https://lpadesignstudios.com/projects/california-state-university-san-bernardino-student-union-expansion"
+    ],
+    "original_fil": "UC20_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "7d148b04eaf264d49728d9c215bd9ffebcfd108829e46441527eef392b3e658b",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC20_campus.webp",
+    "sha256": "9ac8f6237ed2b24c5d92cbd42b82c79b3f68d89887acdc9d05ba064f7f97f3ff",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC20",
+    "universitet": "California State University, San Bernardino",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende i studenterunionens åbne opholdsrum i San Bernardino",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.csusb.edu/smsu",
+      "https://lpadesignstudios.com/projects/california-state-university-san-bernardino-student-union-expansion",
+      "https://www.csusb.edu/inside/article/590764/coyotes-return-pack-2025-26-academic-year"
+    ],
+    "original_fil": "UC20_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "d7a4a4e0b3a4f8f540621eb9e063573f5bf9a929bab0e27e3b38a4f28c9859ef",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC20_studiemiljo.webp",
+    "sha256": "e14e2c95b92d4f9aa2042900ca9912b5da6d2297423f01ad402aa757603e4341",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC20",
+    "universitet": "California State University, San Bernardino",
+    "kategori": "Byliv",
+    "motiv": "Byliv ved det historiske California Theatre i San Bernardino",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.californiatheatre.net/about",
+      "https://commons.wikimedia.org/wiki/File:California_Theatre,_San_Bernardino.JPG"
+    ],
+    "original_fil": "UC20_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "8387ecf773d224756107933e265fe9339bd8f84494cbd498eaff1cf7ddace609",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC20_byliv.webp",
+    "sha256": "79156e52f026887bbfebc6fb47def20024133771bbce19013d75d90eb22025f7",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC21",
+    "universitet": "Colorado Mesa University",
+    "kategori": "Campus",
+    "motiv": "Escalante Hall på Colorado Mesa Universitys campus i Grand Junction",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.coloradomesa.edu/event-spaces/venues/escalante-hall.html",
+      "https://www.reaveley.com/projects/colorado-mesa-university-escalante-hall"
+    ],
+    "original_fil": "UC21_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "843fae9eba0bcbe9c1d3fc65886a4c7c0c89760bb85f25d86f6494d0ba07f1aa",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC21_campus.webp",
+    "sha256": "66be731d50397454259fbbb802ca13799d443881d2f19978072063cb0e55a4da",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC21",
+    "universitet": "Colorado Mesa University",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende arbejder i Confluence Halls Manufacturing Laboratory",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.coloradomesa.edu/engineering/facilities.html",
+      "https://www.coloradomesa.edu/engineering/images/manufacturing.jpg"
+    ],
+    "original_fil": "UC21_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "5d0974f1147b626a02a54d4ac6662f6a86f217a8a82e9539424957b975f74a88",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC21_studiemiljo.webp",
+    "sha256": "606383af529fdb3d274ece93503e6c377d692e7a79c5052c45559e6e256952a4",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC21",
+    "universitet": "Colorado Mesa University",
+    "kategori": "Byliv",
+    "motiv": "Byliv og offentlig kunst på Main Street i Grand Junction",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.visitgrandjunction.com/things-to-do/explore-the-area/downtown/",
+      "https://www.visitgrandjunction.com/blog/post/grand-junctions-art-scene/"
+    ],
+    "original_fil": "UC21_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "ce567cdf3420d61e601f61564d9363fcf39e328af72609e910382cc87dd9eea6",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC21_byliv.webp",
+    "sha256": "39b26439844e7091256204f24169312a1ddd630765afcfae108bda5d3a288c55",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC22",
+    "universitet": "Hawai‘i Pacific University",
+    "kategori": "Campus",
+    "motiv": "Hawai‘i Pacific Universitys havnecampus ved Aloha Tower Marketplace",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.hpu.edu/about-us/the-ohana/article.php?nid=nc07242401",
+      "https://www.hpu.edu/about-us/the-ohana/aac/articles/2024/07/img/hpu-atm-front.jpg",
+      "https://www.hpu.edu/about-us/files/dt-wp-map.pdf"
+    ],
+    "original_fil": "UC22_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "7ad22b2e628754247c1b23f01ee680313d1b6308556458063a96d1fe6e13089a",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC22_campus.webp",
+    "sha256": "1e27b09b2cbafcf649fb67171fa2b4b729c2f09575905c790b7b2a93bc093fcd",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC22",
+    "universitet": "Hawai‘i Pacific University",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende på Hawai‘i Pacific Universitys overdækkede havneterrasse",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.hpu.edu/about-us/the-ohana/article.php?nid=nc08172201",
+      "https://www.hpu.edu/about-us/the-ohana/aac/articles/2022/08/img/hpu-students-seated-atm.jpg"
+    ],
+    "original_fil": "UC22_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "7b1b56496bb4acc8afcefedaa95bee09313baed212619af588d4faf7c59b9fb2",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC22_studiemiljo.webp",
+    "sha256": "c3d86f2538635e40bd297a9d0fab5bed6a3a9f23d45c979071e3b92f40e9ecf4",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC22",
+    "universitet": "Hawai‘i Pacific University",
+    "kategori": "Byliv",
+    "motiv": "Byliv blandt caféer og kunst i SALT at Our Kakaʻako, Honolulu",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://saltatkakaako.com/",
+      "https://saltatkakaako.com/art/"
+    ],
+    "original_fil": "UC22_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "a12a559e38bf133689b9684c308e7873ae6ff18cba9e6d1d0d69cf066e30e53b",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC22_byliv.webp",
+    "sha256": "ec7a11c24827fcfb7cf3ac1478605b273e8c5400591b41d2cd51f7a48b7b3b91",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC23",
+    "universitet": "Mercy University",
+    "kategori": "Campus",
+    "motiv": "Mercy Universitys Manhattan-campus ved Herald Square i New York",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.mercy.edu/campus-locations/explore-manhattan",
+      "https://www.mercy.edu/admissions-aid/visit-campus/visit-manhattan"
+    ],
+    "original_fil": "UC23_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "462b9a4cdd157064dc7e558f541e5cbdbec13d51506388a4ea09e6ebce8a73b4",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC23_campus.webp",
+    "sha256": "24d5fa8c9d2cf66135158cc74f7142115b43caf78798b51889ca6b437f8d71a9",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC23",
+    "universitet": "Mercy University",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende i Dorm 34-studierummet med udsigt til Herald Square",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.mercy.edu/campus-locations/explore-manhattan/dorm-34",
+      "https://www.mercy.edu/campus-locations/explore-manhattan"
+    ],
+    "original_fil": "UC23_studiemiljo.png",
+    "original_oploesning": [
+      1792,
+      1008
+    ],
+    "original_sha256": "c26ea1f51b8ce696eeab589ccc335da1e859c5672a5284bf116685a056face44",
+    "slutoploesning": [
+      1792,
+      1008
+    ],
+    "lokal_sti": "gallery_local/UC23_studiemiljo.webp",
+    "sha256": "0b094708a41342b222b76ccc4e3ced22170acef4ada5b1b8f74a39965b4af1ec",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC23",
+    "universitet": "Mercy University",
+    "kategori": "Byliv",
+    "motiv": "Newyorkere i Bryant Parks udendørs læseområde",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://bryantpark.org/activities/reading-room",
+      "https://bryantpark.org/the-park/hours-and-directions"
+    ],
+    "original_fil": "UC23_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "2522d2a0a90943b21c2efa33637abbd4b032108f1dcfdc9eff4b98ef7607212d",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC23_byliv.webp",
+    "sha256": "781dc8984caed30834dbb77515b41728376248714a6beec80a85a0e2fb28aad7",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC24",
+    "universitet": "University of California, Santa Barbara",
+    "kategori": "Campus",
+    "motiv": "Luftperspektiv over UCSB's campus med lagunen og Storke Tower",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.alumni.ucsb.edu/welcome-to-the-gaucho-family",
+      "https://www.alumni.ucsb.edu/sites/default/files/images/welcome/stay-connected-campus-aerial.jpg",
+      "https://www.campuscalendar.ucsb.edu/storke_tower"
+    ],
+    "original_fil": "UC24_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "2a89c108711523c8909089999d758b0eb3ab10e1248f3be8d938cc02677eca1f",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC24_campus.webp",
+    "sha256": "134f31004f635e45f3805674f2fd04040df8d2dfa4c0a7839682990bb34eb01c",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC24",
+    "universitet": "University of California, Santa Barbara",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende arbejder med udsigt til kysten fra UCSB Library Tower",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://guides.library.ucsb.edu/tour/librarytower",
+      "https://www.library.ucsb.edu/ucsb-8th",
+      "https://www.library.ucsb.edu/visit/study-spaces"
+    ],
+    "original_fil": "UC24_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "cf88220aaf5d878bae61b4b423df6bceadd60ecc05d36ee4269cac76e22446fa",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC24_studiemiljo.webp",
+    "sha256": "f942d3e80cb827543de27b632e4ec1ddf2a8bbced90d7ce950007057314bda97",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC24",
+    "universitet": "University of California, Santa Barbara",
+    "kategori": "Byliv",
+    "motiv": "Lokalt byliv på Santa Barbaras State Street Promenade",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://santabarbaraca.com/explore-and-discover-santa-barbara/neighborhoods-towns/santa-barbara/downtown-santa-barbara/state-street-promenade/",
+      "https://santabarbaraca.com/itinerary/restaurants-on-state-street/"
+    ],
+    "original_fil": "UC24_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "60c076f3fd861ad43b1869fa0f31af20d55b3f2015fc8cf5c911d9965520679c",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC24_byliv.webp",
+    "sha256": "ac2234d187f36951bc194475484209c75eb5bcefa48bedf5f4acf9c0ab9bfe17",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC25",
+    "universitet": "RMIT Vietnam",
+    "kategori": "Campus",
+    "motiv": "RMIT Vietnams Saigon South-campus med den røde Academic Building 2",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.rmit.edu.vn/about-us/locations-and-campuses/our-facilities/saigon-south-campus",
+      "https://www.rmit.edu.au/news/all-news/2025/sep/rmit-vietnam-25-years",
+      "https://www.rmit.edu.au/content/dam/rmit/rmit-images/news/2019/february/activator-goes-global/RMIT_Vietnam_Campus_0012.jpg"
+    ],
+    "original_fil": "UC25_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "283391c09805eb7f2ae606cf5178d2eee6c0ee1612cd8d0040141574ef53a8de",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC25_campus.webp",
+    "sha256": "47c7e0a62d564c12fd9aff2404ed497fb6d9904e43d76435e4b4b6bc2d60c368",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC25",
+    "universitet": "RMIT Vietnam",
+    "kategori": "Studiemiljø",
+    "motiv": "Fælles studiearbejde i Beanland Library på RMIT Vietnams Saigon South-campus",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.out-2.com/education/rmit-beanland-library",
+      "https://www.rmit.edu.vn/libraryvn/about-us/hours-and-locations"
+    ],
+    "original_fil": "UC25_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "9e94c66742e800afbe81a2b1487f2f63dfa49c92a376b4d35b0f1abae65048e4",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC25_studiemiljo.webp",
+    "sha256": "1f52ab3b3c6621d7e5ac6633887102721e219d37e08d30842190e5578552287a",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "UC25",
+    "universitet": "RMIT Vietnam",
+    "kategori": "Byliv",
+    "motiv": "Byliv på Nguyễn Huệ ved cafélejlighederne i Ho Chi Minh City",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://hello.hochiminhcity.gov.vn/en/discover/pho-di-bo-nguyen-hue",
+      "https://visithcmc.net/en/news/pho-di-bo-nguyen-hue-ve-dep-am-thuc-va-trai-nghiem-tai-tp-hcm"
+    ],
+    "original_fil": "UC25_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "6569138c4f6a9c852250327546872e1938c5bb38b5cf15e738f85561b64a4f02",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/UC25_byliv.webp",
+    "sha256": "105f0814b1e6f4127d2a19180031b7d829beacb19d1e8e7088313d799911edb0",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU11",
+    "universitet": "China University of Political Science and Law",
+    "kategori": "Campus",
+    "motiv": "Udsigt over China University of Political Science and Laws Changping-campus i Beijing",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.gocnstudy.cn/product/china-university-of-political-science-and-law/",
+      "https://k.sina.com.cn/article_2181270691_82038ca30190149yo.html",
+      "https://www.moe.gov.cn/srcsite/A02/zfs_gdxxzc/201506/t20150630_191835.html"
+    ],
+    "original_fil": "AU11_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "ecd82bb3b091628a3282b813b24825777090e73053935029b605529862371623",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU11_campus.webp",
+    "sha256": "b10d500b151cc87433ca469b62dffe892c9c1756caa10a22b764da200f8e0058",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU11",
+    "universitet": "China University of Political Science and Law",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende deltager i en national procedurekonkurrence på China University of Political Science and Law",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.ecupl.edu.cn/2026/0608/c13506a226544/page.htm",
+      "https://www.dehenglaw.com/cn/newscontent/0006/036269/2.aspx?MID=0875"
+    ],
+    "original_fil": "AU11_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "e2e1c5caad1c20d27f70ecc5df9367472150de0117845fd172bdc73b8a324a2b",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU11_studiemiljo.webp",
+    "sha256": "062a24b5d3b48e399befb92da7615b0e00840aafa83399d3e2b8ba4e0df20256",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU11",
+    "universitet": "China University of Political Science and Law",
+    "kategori": "Byliv",
+    "motiv": "Aftenliv i Yandai Xiejie nær Shichahai i Beijing",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://english.beijing.gov.cn/livinginbeijing/diningandshopping/202006/t20200616_1925733.html",
+      "https://english.beijing.gov.cn/latest/news/202603/t20260313_4557002.html"
+    ],
+    "original_fil": "AU11_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "82cc76845033dcdbd920e50d4bf63082ad3e5466da90442bcee8430f676319aa",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU11_byliv.webp",
+    "sha256": "b984e02c69d552d9d1d013198e7e798221d1641f7671e5dac9edc258b4770095",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU12",
+    "universitet": "Charles University",
+    "kategori": "Campus",
+    "motiv": "Det gotiske karnapvindue på Karolinum i Prag",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://cuni.cz/UKEN-194.html",
+      "https://prague.eu/en/objevujte/karolinum/"
+    ],
+    "original_fil": "AU12_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "fdded1cd9927eb8dc70063aec274725e1526163f46ce700dc732b97644831823",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU12_campus.webp",
+    "sha256": "01b7f50492e3235d8d443738cfeae09d814169c3cd1fd7dfc40d1f0700832838",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU12",
+    "universitet": "Charles University",
+    "kategori": "Studiemiljø",
+    "motiv": "Nye studerende i Karolinums Great Hall",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://cuni.cz/UKEN-21.html",
+      "https://iforum.cuni.cz/IFORUMENG-387.html",
+      "https://www.ukforum.cz/images/2021/8058/15_up.jpg"
+    ],
+    "original_fil": "AU12_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "9de44af1cd0a30415138b28bb9ceb49712eeaa6710d5e9826e18fd2771542b75",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU12_studiemiljo.webp",
+    "sha256": "0e0e8e8e3563c75c2cc8ca0ea69d61c8f8fb375cc8e69dd331e24b6978b676e6",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU12",
+    "universitet": "Charles University",
+    "kategori": "Byliv",
+    "motiv": "Hverdagsliv på Na Kampě ved Karlsbroen i Prag",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://prague.eu/en/objevujte/kampa/",
+      "https://prague.eu/en/the-lesser-town-without-barriers/"
+    ],
+    "original_fil": "AU12_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "d57e351cd8cfe1c0e5b00e34bf419076c2c3d7aa09f3850a11fe39ce3d84fdde",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU12_byliv.webp",
+    "sha256": "2de0e4b8a35e9f9b0d412fdadfb2cf2b07f6456bc22f85db8f41213c11da20b9",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU07",
+    "universitet": "KU Leuven",
+    "kategori": "Campus",
+    "motiv": "KU Leuvens universitetsbibliotek set fra Ladeuzeplein",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.kuleuven.be/heritage/buildings-and-monuments/university-library",
+      "https://www.visitleuven.be/blog/kuleuven"
+    ],
+    "original_fil": "AU07_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "06848e5d8725b2e4068941385ff4a2dabd824633b44c9d4cf7bd125adb4ac7ca",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU07_campus.webp",
+    "sha256": "ed04507693045146c19eb58e45eabe7a2f3284d5e209aa3ad7b5d1b70d436964",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU07",
+    "universitet": "KU Leuven",
+    "kategori": "Studiemiljø",
+    "motiv": "Studiemiljø i KU Leuvens store læsesal",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.kuleuven.be/heritage/buildings-and-monuments/university-library/visit",
+      "https://www.visitleuven.be/blog/kuleuven"
+    ],
+    "original_fil": "AU07_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "7179ff4ef7ea53aba4c50d16299299224c47387ca7c32e1305da25d34f929bdf",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU07_studiemiljo.webp",
+    "sha256": "67c8e36d9d5b88dcb4f57c4ade91ba2f067e8c6c7e69c738f371922a2dca62f1",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU07",
+    "universitet": "KU Leuven",
+    "kategori": "Byliv",
+    "motiv": "Byliv på Oude Markt i Leuven",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.visitleuven.be/en/oude-markt"
+    ],
+    "original_fil": "AU07_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "f374645fadf9c2d4695b0452d38f042251668937f38084b0e913a352f605a854",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU07_byliv.webp",
+    "sha256": "eace1823db984ad2f210539b056f51192f82860e18450451fe6afbbb6ab4f954",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU08",
+    "universitet": "Université Catholique de Louvain",
+    "kategori": "Campus",
+    "motiv": "Les Halles Universitaires i Louvain-la-Neuve",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://uclouvain.be/fr/patrimoine/les-halles-universitaires"
+    ],
+    "original_fil": "AU08_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "172eedcd2e152aa91b1f4b7ee35327d9865eac0cfbb90661e55769c96e9a44cd",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU08_campus.webp",
+    "sha256": "7113bf0e3b869bbf91887761769c5313353a2f5e3a9011ec2f2fe7ba4b78e95c",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU08",
+    "universitet": "Université Catholique de Louvain",
+    "kategori": "Studiemiljø",
+    "motiv": "Studerende i Learning center Christine de Pizan",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://uclouvain.be/fr/patrimoine/learning-center-christine-de-pizan"
+    ],
+    "original_fil": "AU08_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "01d7b120a54354d242348c2811244531e65ebda18a07c7e865b93a1df87cee99",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU08_studiemiljo.webp",
+    "sha256": "3b0dbed9ec6bf1d5f2f71ab101e73f68dd3576d87c6f5c9e0a0063957f19cd27",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU08",
+    "universitet": "Université Catholique de Louvain",
+    "kategori": "Byliv",
+    "motiv": "Hverdagsliv på stien ved Lac de Louvain-la-Neuve",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://uclouvain.be/fr/universite/lac"
+    ],
+    "original_fil": "AU08_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "c27dff6422b5e0946f78b23ef13be1efa8602b6be959f9643d383bf5b14ce46c",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU08_byliv.webp",
+    "sha256": "e177fbc314a4f5696a27fe8fc7e0f776a91a4d774fa0071d3d59924004d3e4e0",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU10",
+    "universitet": "University of New Brunswick",
+    "kategori": "Campus",
+    "motiv": "Sir Howard Douglas Hall, Old Arts Building, i Fredericton",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://lib.unb.ca/archives/unbhistory/buildings/old-arts-building",
+      "https://www.unb.ca/best-photo-spots-fredericton.html"
+    ],
+    "original_fil": "AU10_campus.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "72fa1958be52007f7309fa4201e76fcb641dbde0b9f9953e04ca49de366818ea",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU10_campus.webp",
+    "sha256": "3782c764db1633b5401444803f11e07bf22153f94701bf06c6943711cc7c76ea",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU10",
+    "universitet": "University of New Brunswick",
+    "kategori": "Studiemiljø",
+    "motiv": "Studiearbejde i Harriet Irving Library Research Commons",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://lib.unb.ca/researchcommons",
+      "https://blogs.unb.ca/newsroom/2025/02/harriet-irving-library.php"
+    ],
+    "original_fil": "AU10_studiemiljo.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "3d6af357c17f30d0544b3118cb236457a8575f7f07f4f469dee69f5442e93dbd",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU10_studiemiljo.webp",
+    "sha256": "00271a4a5e8a0a8b02a3221adace9d6a4029072ef53637da685e3f28c7360dd2",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  },
+  {
+    "id": "AU10",
+    "universitet": "University of New Brunswick",
+    "kategori": "Byliv",
+    "motiv": "Aftenliv på Garrison Night Market i Fredericton",
+    "kilde": "AI-genereret med ChatGPT",
+    "referencer": [
+      "https://www.frederictoncapitalregion.ca/see-do/festivals-events/calendar-events/garrison-night-market-21",
+      "https://www.frederictoncapitalregion.ca/see-do/historic-garrison-district"
+    ],
+    "original_fil": "AU10_byliv.png",
+    "original_oploesning": [
+      1672,
+      941
+    ],
+    "original_sha256": "e35bce4e8b9a6f68e9c4e119a3836ab38c716560aa8e5cb3f60b1c0d2f04b1c6",
+    "slutoploesning": [
+      1672,
+      941
+    ],
+    "lokal_sti": "gallery_local/AU10_byliv.webp",
+    "sha256": "79bf5b97788d7dbe72db7d9120fe335055691277200cd075b1cde61772c3c3a6",
+    "offline_test": {
+      "bestaaet": true,
+      "aabning": [
+        "file://",
+        "lokal HTTP"
+      ],
+      "bredder_px": [
+        1672,
+        1920,
+        390
+      ],
+      "eksterne_billedforespoergsler": 0
+    }
+  }
+]
